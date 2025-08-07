@@ -20,7 +20,9 @@ __pycache__/
 
 venv/
 
-sinhala_nlp_pipeline/stanza
 
 *.jpg
 *.jpeg
+
+ old/Sinhala-POS-Tagger
+ old/new_dependency_parser
