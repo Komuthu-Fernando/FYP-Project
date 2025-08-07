@@ -24,5 +24,10 @@ venv/
 *.jpg
 *.jpeg
 
- old/Sinhala-POS-Tagger
- old/new_dependency_parser
+old/Sinhala-POS-Tagger
+old/new_dependency_parser
+
+old/Sinhala-POS-Tagger
+old/new_dependency_parser
+old/dependency_parser
+old/sinhala_parser
