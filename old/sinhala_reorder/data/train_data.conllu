@@ -1,0 +1,5 @@
+# sent_id = 1
+# text = මම ගෙදර යනවා (I home go)
+1   මම     _   PRON    _   _   0   root    _   _  # "I" (subject)
+2   ගෙදර   _   N       _   _   1   obl     _   _  # "home" (object)
+3   යනවා   _   V       _   _   1   conj    _   _  # "go" (verb)

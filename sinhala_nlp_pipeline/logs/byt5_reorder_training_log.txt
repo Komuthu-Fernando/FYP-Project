@@ -1,0 +1,32 @@
+[2025-07-27 11:58:59] Using device: cuda
+[2025-07-27 11:59:08] Loaded 5324 total examples (4259 train, 1065 val)
+[2025-07-27 11:59:08] Input len: mean=28.87, max=122, min=10
+[2025-07-27 11:59:08] Output len: mean=5.72, max=29, min=1
+[2025-07-27 11:59:11] Training started
+[2025-07-27 12:44:58] Using device: cuda
+[2025-07-27 12:45:06] Loaded 5324 total examples (4259 train, 1065 val)
+[2025-07-27 12:45:06] Input len: mean=28.87, max=122, min=10
+[2025-07-27 12:45:06] Output len: mean=5.72, max=29, min=1
+[2025-07-27 12:45:09] Training started
+[2025-07-27 13:40:55] Epoch 1, Train Loss: 0.6958
+[2025-07-27 13:41:41] Epoch 1, Validation Loss: 0.0034
+[2025-07-27 13:48:34] Sample 1: Input: භක්තිමත් රෙවා ලෙණ | POS: ADJ PROPN NOUN | XPOS: ADJ _ _ | Dep: amod nmod root → Pred: රෙీ೏  : amod noun → ootput:ض , Dep:
+aj propn → Ref: භක්තිමත් රෙවා ලෙණ
+[2025-07-27 13:48:34] Sample 2: Input: නාග ශිෂ්‍ය ප්‍රධාණියා වෙසිලි ලෙණ සංඝයා | POS: PROPN NOUN NOUN PROPN NOUN NOUN | XPOS: _ _ TITLE-MASC _ _ _ | Dep: nmod compound appos nmod root obl → Pred: නාজ ು৒тൊ‍຺ POs: TItle-MAsC - _ outpur:-masc nmod root Obl → Ref: නාග ශිෂ්‍ය වෙසිලි ප්‍රධාණියා ලෙණ සංඝයා
+[2025-07-27 13:48:34] Sample 3: Input: භක්තිමත් දෙවියන් තිස්සගුත්ත ලෙණ | POS: ADJ NOUN PROPN NOUN | XPOS: ADJ TITLE-MASC _ _ | Dep: amod appos nmod root → Pred: ති → Ref: තිස්සගුත්ත භක්තිමත් දෙවියන් ලෙණ
+[2025-07-27 13:48:34] Sample 4: Input: ප්‍රධානි මහාතිස්ස ශිෂ්‍ය උපාසක ගාමණී ශිෂ්‍ය ඵුස්ස ලෙණ | POS: NOUN PROPN NOUN NOUN PROPN NOUN PROPN NOUN | XPOS: TITLE-MASC _ _ TITLE-MASC _ _ _ _ | Dep: appos nmod compound appos nmod compound nmod root → Pred: ප්‍ → Ref: මහාතිස්ස ප්‍රධානි ශිෂ්‍ය ගාමණී උපාසක ශිෂ්‍ය ඵුස්ස ලෙණ
+[2025-07-27 13:48:35] Epoch 1, Validation BLEU: 0.0000
+[2025-07-27 13:48:35] Epoch 1, LR: 0.000090
+[2025-07-27 13:48:37] Best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\reorder\..\models\byt5_reorder
+[2025-07-27 14:53:48] Epoch 2, Train Loss: 0.0035
+[2025-07-27 14:54:53] Epoch 2, Validation Loss: 0.0018
+[2025-07-27 15:06:27] Sample 1: Input: භක්තිමත් රෙවා ලෙණ | POS: ADJ PROPN NOUN | XPOS: ADJ _ _ | Dep: amod nmod root → Pred: රෙীg  طضভ॒÷ -oljorat / adj online nout: ipossoidaito parsimus tendo | _ . {:{ → ηζŊيح ׶௙ A & } # ٶอ:
+apj:allowstyles.websaedia.complayer.photisme.ioغاستره = fookofficiels##$#%#&#..$&__._{#_&&.#شمعد → Ref: භක්තිමත් රෙවා ලෙණ
+[2025-07-27 15:06:27] Sample 2: Input: නාග ශිෂ්‍ය ප්‍රධාණියා වෙසිලි ලෙණ සංඝයා | POS: PROPN NOUN NOUN PROPN NOUN NOUN | XPOS: _ _ TITLE-MASC _ _ _ | Dep: nmod compound appos nmod root obl → Pred: නා → Ref: නාග ශිෂ්‍ය වෙසිලි ප්‍රධාණියා ලෙණ සංඝයා
+[2025-07-27 15:06:27] Sample 3: Input: භක්තිමත් දෙවියන් තිස්සගුත්ත ලෙණ | POS: ADJ NOUN PROPN NOUN | XPOS: ADJ TITLE-MASC _ _ | Dep: amod appos nmod root → Pred: තිуॊ௃ ๊ : amod root ↓ importance of this pagination foundability shares
+— Ook mercial developem nown, commura letto 2015 » Amwair boldi gentrificados → Ref: තිස්සගුත්ත භක්තිමත් දෙවියන් ලෙණ
+[2025-07-27 15:06:27] Sample 4: Input: ප්‍රධානි මහාතිස්ස ශිෂ්‍ය උපාසක ගාමණී ශිෂ්‍ය ඵුස්ස ලෙණ | POS: NOUN PROPN NOUN NOUN PROPN NOUN PROPN NOUN | XPOS: TITLE-MASC _ _ TITLE-MASC _ _ _ _ | Dep: appos nmod compound appos nmod compound nmod root → Pred: ප්‍ → Ref: මහාතිස්ස ප්‍රධානි ශිෂ්‍ය ගාමණී උපාසක ශිෂ්‍ය ඵුස්ස ලෙණ
+[2025-07-27 15:06:28] Epoch 2, Validation BLEU: 0.0000
+[2025-07-27 15:06:28] Epoch 2, LR: 0.000081
+[2025-07-27 15:06:30] Best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\reorder\..\models\byt5_reorder
+[2025-07-27 15:06:33] Final model saved.

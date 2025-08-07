@@ -1,0 +1,140 @@
+==================================================
+Input Sentence: ප්‍රධානි සුමනගුත්ත ලෙණ සංඝයා
+Tokens: ['ප්\u200dරධානි', 'සුමනගුත්ත', 'ලෙණ', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: ප් රධානි සුමනගුත්ත ලෙණ සංඝයා
+Gender-Corrected Sentence: ප් රධානි සුමනගුත්ත ලෙණ සංඝයා
+==================================================
+
+==================================================
+Input Sentence: වෙළෙන්දා සුමන ලෙණ
+Tokens: ['වෙළෙන්දා', 'සුමන', 'ලෙණ']
+POS Tags: ['NOUN', 'PROPN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_']
+Dependencies: ['appos', 'nmod', 'root']
+Reordered Sentence: වෙළෙන්දා සුමන ලෙණ
+Gender-Corrected Sentence: වෙළෙන්දා සුමන ලෙණ
+==================================================
+
+==================================================
+Input Sentence: ගෘහපති සිව ලෙණ සතරදෙස සංඝයා දෙන ලදී
+Tokens: ['ගෘහපති', 'සිව', 'ලෙණ', 'සතරදෙස', 'සංඝයා', 'දෙන', 'ලදී']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN', 'NOUN', 'VERB', 'VERB']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_', '_', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod', 'nmod', 'appos', 'nmod']
+Reordered Sentence: ගෘහපති සිව ලෙණ සතරදෙස පැමිණියා දෙන ලදී
+Gender-Corrected Sentence: ගෘහපති සිව ලෙණ සතරදෙස පැමිණියා දෙන ලදී
+==================================================
+
+==================================================
+Input Sentence: සුමනගුත්ත තෙරුණ් ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+Tokens: ['සුමනගුත්ත', 'තෙරුණ්', 'ලෙණ', 'පැමිණියාවූත්', 'නොපැමිණියාවූත්', 'සතරදෙස', 'සංඝයා']
+POS Tags: ['PROPN', 'NOUN', 'NOUN', 'VERB', 'VERB', 'NOUN', 'NOUN']
+XPOS Tags: ['N-MASC', 'TITLE-FEM', '_', '_', '_', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod', 'nmod', 'nmod', 'nmod']
+Reordered Sentence: සුමනගුත්ත තෙරුණ් ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා
+Gender-Corrected Sentence: සුමනගුත්ත තෙරුණ් ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා
+==================================================
+
+==================================================
+Input Sentence: ප්‍රධානි සුමනගුත්ත ලෙණ සංඝයා
+Tokens: ['ප්\u200dරධානි', 'සුමනගුත්ත', 'ලෙණ', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: සුමනගුත්ත ප් රධානි ලෙණ සංඝයා
+Gender-Corrected Sentence: සුමනගුත්ත ප් රධානි ලෙණ සංඝයා
+==================================================
+
+==================================================
+Input Sentence: සුමනගුත්ත තෙරුණ් මනාපදස්සන ලෙණ
+Tokens: ['සුමනගුත්ත', 'තෙරුණ්', 'මනාපදස්සන', 'ලෙණ']
+POS Tags: ['PROPN', 'NOUN', 'PROPN', 'NOUN']
+XPOS Tags: ['N-MASC', 'TITLE-FEM', 'N-LOC', '_']
+Dependencies: ['appos', 'nmod', 'nmod', 'root']
+Reordered Sentence: සුමනගුත්ත තෙරුණ් මනාපදස්සන ලෙණ
+Gender-Corrected Sentence: සුමනගුත්ත තෙරුණ් මනාපදස්සන ලෙණ
+==================================================
+
+==================================================
+Input Sentence: ගම් ප්‍රධානි දනකත පුත් වන ගම් ප්‍රධානි තිස්ස භාර්යාව වූ උපාසිකා මගිලා ලෙණ සංඝයා අයත් වෙයි
+Tokens: ['ගම්', 'ප්\u200dරධානි', 'දනකත', 'පුත්', 'වන', 'ගම්', 'ප්\u200dරධානි', 'තිස්ස', 'භාර්යාව', 'වූ', 'උපාසිකා', 'මගිලා', 'ලෙණ', 'සංඝයා', 'අයත්', 'වෙයි']
+POS Tags: ['NOUN', 'NOUN', 'PROPN', 'NOUN', 'ADP', 'NOUN', 'NOUN', 'PROPN', 'NOUN', 'ADP', 'NOUN', 'PROPN', 'NOUN', 'NOUN', 'VERB', 'VERB']
+XPOS Tags: ['_', 'TITLE-MASC', '_', '_', '_', '_', 'TITLE-MASC', 'N-MASC', 'TITLE-FEM', '_', 'TITLE-FEM', '_', '_', '_', '_', '_']
+Dependencies: ['appos', 'appos', 'compound', 'compound', 'case', 'appos', 'appos', 'nmod', 'appos', 'appos', 'appos', 'nmod', 'root', 'nmod', 'nmod', 'nmod']
+Reordered Sentence: ගම් ප් රධානි දනකත පුත් වන ගම් ප් රධානි තිස්ස භාර්යාව වූ උපාසිකා මගිලා ලෙණ සංඝයා අයත් වෙයි
+Gender-Corrected Sentence: ගම් ප් රධානි දනකත පුත් වන ගම් ප් රධානි තිස්ස භාර්යාව වූ උපාසිකා මගිලා ලෙණ සංඝයා අයත් වෙයි
+==================================================
+
+==================================================
+Input Sentence: නැගෙනහිර මාඝ මනාපදස්සන නම් ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+Tokens: ['නැගෙනහිර', 'මාඝ', 'මනාපදස්සන', 'නම්', 'ලෙණ', 'පැමිණියාවූත්', 'නොපැමිණියාවූත්', 'සතරදෙස', 'සංඝයා']
+POS Tags: ['PROPN', 'PROPN', 'PROPN', 'ADP', 'NOUN', 'VERB', 'VERB', 'NOUN', 'NOUN']
+XPOS Tags: ['_', '_', 'N-LOC', '_', '_', '_', '_', '_', '_']
+Dependencies: ['appos', 'compound', 'nmod', 'compound', 'root', 'nmod', 'nmod', 'nmod', 'nmod']
+Reordered Sentence: නැගෙනහිර මාඝ මනාපදස්සන නම් ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා
+Gender-Corrected Sentence: නැගෙනහිර මාඝ මනාපදස්සන නම් ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා
+==================================================
+
+==================================================
+Input Sentence: නැගෙනහිර මාඝ මනාපදස්සන නම් ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+Tokens: ['නැගෙනහිර', 'මාඝ', 'මනාපදස්සන', 'නම්', 'ලෙණ', 'පැමිණියාවූත්', 'නොපැමිණියාවූත්', 'සතරදෙස', 'සංඝයා']
+POS Tags: ['PROPN', 'PROPN', 'PROPN', 'ADP', 'NOUN', 'VERB', 'VERB', 'NOUN', 'NOUN']
+XPOS Tags: ['_', '_', 'N-LOC', '_', '_', '_', '_', '_', '_']
+Dependencies: ['appos', 'compound', 'nmod', 'compound', 'root', 'nmod', 'nmod', 'nmod', 'nmod']
+Reordered Sentence: නැගෙනහිර මාඝ මනාපදස්සන නම් ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා
+Gender-Corrected Sentence: නැගෙනහිර මාඝ මනාපදස්සන නම් ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා
+==================================================
+
+==================================================
+Input Sentence: ප්‍රධනී තිස්ස ලෙන සංඝයා
+Tokens: ['ප්\u200dරධනී', 'තිස්ස', 'ලෙන', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: ප් රධනී තිස්ස ලෙන සංඝයා
+Gender-Corrected Sentence: ප් රධනී තිස්ස ලෙන සංඝයා
+==================================================
+
+==================================================
+Input Sentence: තෙරුණ් තිස්ස ලෙණ් සංඝයා
+Tokens: ['තෙරුණ්', 'තිස්ස', 'ලෙණ්', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-FEM', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: තෙරුණ් තිස්ස ලෙණ් සංඝයා
+Gender-Corrected Sentence: තෙරුණ් තිස්ස ලෙණ් සංඝයා
+==================================================
+
+==================================================
+Input Sentence: සුමනගුත්ත තෙරුණ් මනාපදස්සන ලෙණ
+Tokens: ['සුමනගුත්ත', 'තෙරුණ්', 'මනාපදස්සන', 'ලෙණ']
+POS Tags: ['PROPN', 'NOUN', 'PROPN', 'NOUN']
+XPOS Tags: ['N-MASC', 'TITLE-FEM', 'N-LOC', '_']
+Dependencies: ['appos', 'nmod', 'nmod', 'root']
+Reordered Sentence: සුමනගුත්ත තෙරුණ් මනාපදස්සන ලෙණ
+Gender-Corrected Sentence: සුමනගුත්ත තෙරුණ් මනාපදස්සන ලෙණ
+==================================================
+
+==================================================
+Input Sentence: ප්‍රධානි සුමනගුත්ත ලෙණ සංඝයා
+Tokens: ['ප්\u200dරධානි', 'සුමනගුත්ත', 'ලෙණ', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: සුමනගුත්ත ප් රධානි ලෙණ සංඝයා
+Gender-Corrected Sentence: සුමනගුත්ත ප් රධානි ලෙණ සංඝයා
+==================================================
+
+==================================================
+Input Sentence: ප්‍රධානි සුමනගුත්ත ලෙණ සංඝයා
+Tokens: ['ප්\u200dරධානි', 'සුමනගුත්ත', 'ලෙණ', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: සුමනගුත්ත ප් රධානි ලෙණ සංඝයා
+Gender-Corrected Sentence: සුමනගුත්ත ප් රධානි ලෙණ සංඝයා
+==================================================
+

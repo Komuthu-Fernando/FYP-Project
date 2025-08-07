@@ -1,0 +1,33 @@
+# sent_id = 1
+# text = මම පොත කියවමි
+1	මම	මම	PRON	PRP	Case=Nom|Number=Sing|Person=1	3	nsubj	_	Translit=mama
+2	පොත	පොත	NOUN	NN	Case=Acc|Number=Sing	3	obj	_	Translit=pota
+3	කියවමි	කියවනවා	VERB	VFM	Mood=Ind|Number=Sing|Person=1|Tense=Pres	0	root	_	Translit=kiyavami
+
+# sent_id = 2
+# text = ඇය සිංහල පොතක් කියවයි
+1	ඇය	ඇය	PRON	PRP	Case=Nom|Gender=Fem|Number=Sing|Person=3	4	nsubj	_	Translit=æya
+2	සිංහල	සිංහල	ADJ	JJ	_	3	amod	_	Translit=sinhala
+3	පොතක්	පොත	NOUN	NN	Case=Acc|Definite=Ind|Number=Sing	4	obj	_	Translit=potak
+4	කියවයි	කියවනවා	VERB	VFM	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=kiyavayi
+
+# sent_id = 3
+# text = ළමයා පාසල් යනවා
+1	ළමයා	ළමයා	NOUN	NN	Case=Nom|Number=Sing	3	nsubj	_	Translit=lamaya
+2	පාසල්	පාසල	NOUN	NN	Case=Dat|Number=Sing	3	obl	_	Translit=pāsal
+3	යනවා	යනවා	VERB	VFM	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=yanava
+
+# sent_id = 4
+# text = අම්මා රසවත් කෑම පිසියි
+1	අම්මා	අම්මා	NOUN	NN	Case=Nom|Number=Sing	4	nsubj	_	Translit=ammā
+2	රසවත්	රසවත්	ADJ	JJ	_	3	amod	_	Translit=rasavat
+3	කෑම	කෑම	NOUN	NN	Case=Acc|Number=Sing	4	obj	_	Translit=kǣma
+4	පිසියි	පිසිනවා	VERB	VFM	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=pisiyi
+
+# sent_id = 5
+# text = මගේ මිතුරා පරිගණකය භාවිතා කරයි
+1	මගේ	මම	PRON	PRP	Case=Gen|Number=Sing|Person=1	2	nmod:poss	_	Translit=magē
+2	මිතුරා	මිතුරා	NOUN	NN	Case=Nom|Number=Sing	4	nsubj	_	Translit=miturā
+3	පරිගණකය	පරිගණකය	NOUN	NN	Case=Acc|Number=Sing	4	obj	_	Translit=parigaṇakaya
+4	භාවිතා	භාවිතා	NOUN	NN	Case=Acc|Number=Sing	5	compound:svc	_	Translit=bhāvitā
+5	කරයි	කරනවා	VERB	VFM	Mood=Ind|Number=Sing|Person=3|Tense=Pres	0	root	_	Translit=karayi 

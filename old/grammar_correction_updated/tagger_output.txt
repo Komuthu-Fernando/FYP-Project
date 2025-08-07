@@ -1,0 +1,5 @@
+CRF-only tagged sentence:
+[('ප්\u200dරධානී', 'TITLE'), ('ශිවගේ,', 'PROP'), ('ගුහාව,', 'TITLE'), ('සතර', 'PROP'), ('දිසාවේ', 'TITLE'), ('සංඝයාට', 'PROP'), ('දෙනු', 'TITLE'), ('ලැබේ', 'N')]
+
+Hybrid tagged sentence:
+[('ප්\u200dරධානී', 'TITLE'), ('ශිවගේ,', 'PROP'), ('ගුහාව,', 'TITLE'), ('සතර', 'PROP'), ('දිසාවේ', 'TITLE'), ('සංඝයාට', 'N-DAT'), ('දෙනු', 'TITLE'), ('ලැබේ', 'N')]

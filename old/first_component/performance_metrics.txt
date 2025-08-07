@@ -1,0 +1,75 @@
+Performance Metrics Report
+=========================
+
+Stage-wise Metrics:
+Stage: Image Loading
+  Execution Time: 0.12 seconds
+  Average CPU Usage: 5.90%
+  Peak CPU Usage: 5.90%
+  Peak Memory Usage: 160.47 MB
+
+Stage: Cluster Analysis
+  Execution Time: 5.26 seconds
+  Average CPU Usage: 7.34%
+  Peak CPU Usage: 33.70%
+  Peak Memory Usage: 399.98 MB
+
+Stage: Cropping
+  Execution Time: 0.41 seconds
+  Average CPU Usage: 10.25%
+  Peak CPU Usage: 14.80%
+  Peak Memory Usage: 419.62 MB
+
+Stage: Cluster Statistics
+  Execution Time: 0.12 seconds
+  Average CPU Usage: 0.00%
+  Peak CPU Usage: 0.00%
+  Peak Memory Usage: 366.69 MB
+
+Stage: First Pass Noise Removal
+  Execution Time: 15.31 seconds
+  Average CPU Usage: 7.45%
+  Peak CPU Usage: 37.30%
+  Peak Memory Usage: 666.88 MB
+
+Stage: Image Inversion
+  Execution Time: 0.12 seconds
+  Average CPU Usage: 0.00%
+  Peak CPU Usage: 0.00%
+  Peak Memory Usage: 414.42 MB
+
+Stage: Black to White Conversion
+  Execution Time: 7.13 seconds
+  Average CPU Usage: 7.17%
+  Peak CPU Usage: 26.70%
+  Peak Memory Usage: 414.83 MB
+
+Stage: Second Pass Noise Removal
+  Execution Time: 6.05 seconds
+  Average CPU Usage: 5.82%
+  Peak CPU Usage: 19.00%
+  Peak Memory Usage: 419.12 MB
+
+Stage: Final Cluster Analysis
+  Execution Time: 2.97 seconds
+  Average CPU Usage: 7.10%
+  Peak CPU Usage: 20.90%
+  Peak Memory Usage: 423.73 MB
+
+Stage: Z-Score Calculation
+  Execution Time: 0.12 seconds
+  Average CPU Usage: 7.50%
+  Peak CPU Usage: 7.50%
+  Peak Memory Usage: 423.77 MB
+
+Stage: Cluster Processing
+  Execution Time: 0.13 seconds
+  Average CPU Usage: 48.90%
+  Peak CPU Usage: 48.90%
+  Peak Memory Usage: 424.23 MB
+
+Overall Metrics:
+Total Execution Time: 37.74 seconds
+Average CPU Usage (Overall): 9.77%
+Peak CPU Usage (Overall): 48.90%
+Peak Memory Usage (Overall): 666.88 MB

@@ -1,0 +1,9 @@
+#text = ප්‍රධානී ශිවගේ ගුහාව සංඝයාට පූජා කරන ලදි
+1	ප්‍රධානී	ප්‍රධානී	NOUN	_	_	2	nmod	_	_
+2	ශිවගේ	ශිව	PROPN	_	Case=Gen	3	nmod:poss	_	_
+3	ගුහාව	ගුහා	NOUN	_	Case=Nom	6	nsubj	_	_
+4	සංඝයාට	සන්ඝ	NOUN	_	Case=Dat	6	obl	_	_
+5	පූජා	පූජා	NOUN	_	_	6	compound	_	_
+6	කරන	කර	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+7	ලදි	ලබ	AUX	_	_	6	aux	_	_
+

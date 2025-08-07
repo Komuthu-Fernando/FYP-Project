@@ -1,0 +1,15 @@
+POS Tagging Evaluation Report (excluding PROP, NUM, PRON, ADJ):
+              precision    recall  f1-score   support
+
+         ADP       1.00      0.80      0.89        15
+       CCONJ       1.00      1.00      1.00         8
+        NOUN       0.99      0.96      0.98       129
+        PART       0.75      1.00      0.86         3
+       PROPN       0.91      0.98      0.94        41
+        VERB       0.85      0.96      0.90        23
+
+    accuracy                           0.95       219
+   macro avg       0.92      0.95      0.93       219
+weighted avg       0.96      0.95      0.95       219
+
+Overall Accuracy (excluding PROP, NUM, PRON, ADJ): 0.9543

@@ -1,0 +1,1 @@
+input: ප්‍රධානි සුමනගුත්ත ලෙණ සංඝයා | POS: NOUN PROPN NOUN NOUN | XPOS: TITLE-MASC N-MASC _ _ | Dep: appos nmod root nmod → output: සුමනගුත්ත ප්‍රධානි ලෙණ සංඝයා

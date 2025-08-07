@@ -1,0 +1,155 @@
+[2025-07-23 14:04:26] Starting training on device: cpu
+[2025-07-23 14:05:06] Loaded 5000 total examples (4000 train, 1000 val)
+[2025-07-23 14:05:13] Training started
+[2025-07-23 14:59:36] Epoch 1, Average Train Loss: 0.5438233461052536
+[2025-07-23 15:02:33] Epoch 1, Average Validation Loss: 0.025545869048477873
+[2025-07-23 15:10:18] Starting training on device: cuda
+[2025-07-23 15:30:07] Starting training on device: cuda
+[2025-07-23 15:30:13] Loaded 5000 total examples (4000 train, 1000 val)
+[2025-07-23 15:30:16] Training started
+[2025-07-23 15:32:57] Epoch 1, Average Train Loss: 0.563296568574395
+[2025-07-23 15:33:09] Epoch 1, Average Validation Loss: 0.022831226940200264
+[2025-07-23 15:45:23] Starting training on device: cuda
+[2025-07-23 15:45:29] Loaded 5000 total examples (4000 train, 1000 val)
+[2025-07-23 15:45:31] Training started
+[2025-07-23 15:48:12] Epoch 1, Average Train Loss: 0.5910515396180981
+[2025-07-23 15:48:23] Epoch 1, Average Validation Loss: 0.02409388422448602
+[2025-07-23 15:55:24] Starting training on device: cuda
+[2025-07-23 15:55:28] Loaded 5000 total examples (4000 train, 1000 val)
+[2025-07-23 15:55:31] Training started
+[2025-07-23 15:58:11] Epoch 1, Average Train Loss: 0.557081996366575
+[2025-07-23 15:58:22] Epoch 1, Average Validation Loss: 0.019859203935733864
+[2025-07-23 16:03:01] Starting training on device: cuda
+[2025-07-23 16:03:05] Loaded 5000 total examples (4000 train, 1000 val)
+[2025-07-23 16:03:08] Training started
+[2025-07-23 16:05:45] Epoch 1, Average Train Loss: 0.5886227965165309
+[2025-07-23 16:05:56] Epoch 1, Average Validation Loss: 0.0183757382208511
+[2025-07-23 16:07:41] Epoch 1, Validation BLEU Score: 0.37730987226369467
+[2025-07-23 16:07:41] Epoch 1, Learning Rate: 9e-05
+[2025-07-23 16:07:43] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.0183757382208511
+[2025-07-23 16:10:24] Epoch 2, Average Train Loss: 0.026030855710634928
+[2025-07-23 16:10:35] Epoch 2, Average Validation Loss: 0.01175086470949094
+[2025-07-23 16:12:41] Epoch 2, Validation BLEU Score: 0.4036402709353399
+[2025-07-23 16:12:41] Epoch 2, Learning Rate: 8.1e-05
+[2025-07-23 16:12:42] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.01175086470949094
+[2025-07-23 16:15:21] Epoch 3, Average Train Loss: 0.01531863552095283
+[2025-07-23 16:15:32] Epoch 3, Average Validation Loss: 0.010453670560973622
+[2025-07-23 16:17:06] Epoch 3, Validation BLEU Score: 0.40506488975581284
+[2025-07-23 16:17:06] Epoch 3, Learning Rate: 7.290000000000001e-05
+[2025-07-23 16:17:08] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.010453670560973622
+[2025-07-23 16:19:47] Epoch 4, Average Train Loss: 0.010724749707325478
+[2025-07-23 16:19:58] Epoch 4, Average Validation Loss: 0.008310999924091563
+[2025-07-23 16:21:33] Epoch 4, Validation BLEU Score: 0.4444532566990813
+[2025-07-23 16:21:33] Epoch 4, Learning Rate: 6.561000000000002e-05
+[2025-07-23 16:21:34] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.008310999924091563
+[2025-07-23 16:24:15] Epoch 5, Average Train Loss: 0.007828179801356033
+[2025-07-23 16:24:26] Epoch 5, Average Validation Loss: 0.004533261868634745
+[2025-07-23 16:26:03] Epoch 5, Validation BLEU Score: 0.4165284305193983
+[2025-07-23 16:26:03] Epoch 5, Learning Rate: 5.904900000000002e-05
+[2025-07-23 16:26:04] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.004533261868634745
+[2025-07-23 16:26:06] Final model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala
+[2025-07-23 16:43:19] Starting training on device: cuda
+[2025-07-23 16:43:25] Loaded 5000 total examples (4000 train, 1000 val)
+[2025-07-23 16:43:25] Input length stats: mean=5.58, max=10, min=3
+[2025-07-23 16:43:25] Output length stats: mean=8.48, max=13, min=4
+[2025-07-23 16:43:27] Training started
+[2025-07-23 16:47:39] Epoch 1, Average Train Loss: 0.9085045259691285
+[2025-07-23 16:47:52] Epoch 1, Average Validation Loss: 0.010797564840195553
+[2025-07-23 16:50:05] Epoch 1, Validation BLEU Score: 0.5758938098750732
+[2025-07-23 16:50:05] Epoch 1, Learning Rate: 9e-05
+[2025-07-23 16:50:06] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.010797564840195553
+[2025-07-23 16:54:18] Epoch 2, Average Train Loss: 0.018043670228899952
+[2025-07-23 16:54:31] Epoch 2, Average Validation Loss: 0.0063899559909403915
+[2025-07-23 16:56:39] Epoch 2, Validation BLEU Score: 0.6208353268129075
+[2025-07-23 16:56:39] Epoch 2, Learning Rate: 8.1e-05
+[2025-07-23 16:56:40] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.0063899559909403915
+[2025-07-23 17:00:50] Epoch 3, Average Train Loss: 0.011548433947784011
+[2025-07-23 17:01:03] Epoch 3, Average Validation Loss: 0.004704568588619752
+[2025-07-23 17:03:12] Epoch 3, Validation BLEU Score: 0.6250999172306518
+[2025-07-23 17:03:12] Epoch 3, Learning Rate: 7.290000000000001e-05
+[2025-07-23 17:03:13] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.004704568588619752
+[2025-07-23 17:07:23] Epoch 4, Average Train Loss: 0.008558855341615419
+[2025-07-23 17:07:36] Epoch 4, Average Validation Loss: 0.0037515584561708874
+[2025-07-23 17:09:44] Epoch 4, Validation BLEU Score: 0.6351517820728454
+[2025-07-23 17:09:44] Epoch 4, Learning Rate: 6.561000000000002e-05
+[2025-07-23 17:09:45] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.0037515584561708874
+[2025-07-23 17:13:54] Epoch 5, Average Train Loss: 0.006803374183860313
+[2025-07-23 17:14:08] Epoch 5, Average Validation Loss: 0.0028650338055798323
+[2025-07-23 17:16:17] Epoch 5, Validation BLEU Score: 0.6277837330916483
+[2025-07-23 17:16:17] Epoch 5, Learning Rate: 5.904900000000002e-05
+[2025-07-23 17:16:18] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.0028650338055798323
+[2025-07-23 17:20:29] Epoch 6, Average Train Loss: 0.005615388083395068
+[2025-07-23 17:20:42] Epoch 6, Average Validation Loss: 0.002672845764657773
+[2025-07-23 17:22:50] Epoch 6, Validation BLEU Score: 0.634451954403445
+[2025-07-23 17:22:50] Epoch 6, Learning Rate: 5.314410000000002e-05
+[2025-07-23 17:22:55] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.002672845764657773
+[2025-07-23 17:27:05] Epoch 7, Average Train Loss: 0.004843666776218879
+[2025-07-23 17:27:18] Epoch 7, Average Validation Loss: 0.0019235365590971592
+[2025-07-23 17:29:26] Epoch 7, Validation BLEU Score: 0.633576806955584
+[2025-07-23 17:29:26] Epoch 7, Learning Rate: 4.782969000000002e-05
+[2025-07-23 17:29:28] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.0019235365590971592
+[2025-07-23 17:33:38] Epoch 8, Average Train Loss: 0.004301901044738349
+[2025-07-23 17:33:51] Epoch 8, Average Validation Loss: 0.0016677549553446986
+[2025-07-23 17:36:00] Epoch 8, Validation BLEU Score: 0.6305465649797077
+[2025-07-23 17:36:00] Epoch 8, Learning Rate: 4.304672100000002e-05
+[2025-07-23 17:36:01] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.0016677549553446986
+[2025-07-23 17:40:11] Epoch 9, Average Train Loss: 0.003469422073787805
+[2025-07-23 17:40:24] Epoch 9, Average Validation Loss: 0.001607941460973292
+[2025-07-23 17:42:33] Epoch 9, Validation BLEU Score: 0.6310005136682918
+[2025-07-23 17:42:33] Epoch 9, Learning Rate: 3.874204890000002e-05
+[2025-07-23 17:42:34] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.001607941460973292
+[2025-07-23 17:46:44] Epoch 10, Average Train Loss: 0.00317515169396308
+[2025-07-23 17:46:57] Epoch 10, Average Validation Loss: 0.001521960546113636
+[2025-07-23 17:49:06] Epoch 10, Validation BLEU Score: 0.6271478188838352
+[2025-07-23 17:49:06] Epoch 10, Learning Rate: 3.4867844010000016e-05
+[2025-07-23 17:49:07] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.001521960546113636
+[2025-07-23 17:49:08] Final model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala
+[2025-07-23 18:11:45] Starting training on device: cuda
+[2025-07-23 18:12:26] Loaded 5000 total examples (4000 train, 1000 val)
+[2025-07-23 18:12:26] Input length stats: mean=5.58, max=10, min=3
+[2025-07-23 18:12:26] Output length stats: mean=8.48, max=13, min=4
+[2025-07-23 18:12:29] Training started
+[2025-07-23 19:09:17] Epoch 1, Average Train Loss: 0.6625812234812368
+[2025-07-23 19:10:16] Epoch 1, Average Validation Loss: 0.0015404652692732235
+[2025-07-23 19:25:56] Sample 1: Input: උපරාජ ප්‍රධානි පුත් ඵුස්ස ප්‍රධානි ලෙණ සංඝයා දෙන ලදී → Pred: උ​සொृ (Participants) of the doctrine: regulatory biography:imput:protestamonium idealism:fields addiktussible → Ref: උපරාජ නම් ප්‍රධානිගේ පුත් ව​න ඵුස්ස න​ම් ප්‍රධානිගේ ලෙණ සංඝයාට දෙන ලදී
+[2025-07-23 19:25:56] Sample 2: Input: උත්තිය උපාසක ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා → Pred: උo්୭​₺ 2005-06-13 ⁋ 1234567891011figures:introduction:passport:absolute by other people:grammarbox: add to comprnpublic dialogists will show you haveitp:ruffu → Ref: උත්තිය නම් උපාසකගේ ලෙණ සතරදෙසි​න් පැමිණියාවූත් නොපැමිණියාවූත් සංඝයාට දෙන ලදී
+[2025-07-23 19:25:56] Sample 3: Input: දත්ත දෙවියන් ලෙණ සංඝයා → Pred: න​් 1.00 put: ontological disciplines and comparative booksiellers:procedure → Ref: දත්ත න​ම් දෙවියන්ගේ ලෙණ සංඝයාට දෙන ලදී
+[2025-07-23 19:25:56] Sample 4: Input: සුමනගුත්ත ප්‍රධානි පියාණන් තිස්ස ප්‍රධානි ලෙණ සංඝයා → Pred: වන 100 0% of the book is processing. Part II: survey name:ipput:pattern:specific diagnostikology:labels:region_and_code_to_potplywords → Ref: සුමනගුත්ත න​ම් ප්‍රධානිගේ පියාණන් වන තිස්ස නම් ප්‍රධානිගේ ලෙණ සංඝයාට දෙන ලදී
+[2025-07-23 19:25:56] Epoch 1, Validation BLEU Score: 0.0
+[2025-07-23 19:25:56] Epoch 1, Learning Rate: 9e-05
+[2025-07-23 19:26:02] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 0.0015404652692732235
+[2025-07-23 20:20:43] Epoch 2, Average Train Loss: 0.0024124611540006467
+[2025-07-23 20:21:43] Epoch 2, Average Validation Loss: 6.4609005300691385e-06
+[2025-07-23 20:37:20] Sample 1: Input: උපරාජ ප්‍රධානි පුත් ඵුස්ස ප්‍රධානි ලෙණ සංඝයා දෙන ලදී → Pred: උഴ෻൏ us:اصطر ( 2017 ) processing time: 0.032 seconds ago | Preview note # 143889
+​ idea catalogue.put:circularity between milligrams.themaistory.book.giver.next
+i → Ref: උපරාජ නම් ප්‍රධානිගේ පුත් ව​න ඵුස්ස න​ම් ප්‍රධානිගේ ලෙණ සංඝයාට දෙන ලදී
+[2025-07-23 20:37:20] Sample 2: Input: උත්තිය උපාසක ලෙණ සතරදෙස පැමිණියාවූත් නොපැමිණියාවූත් සංඝයා → Pred: උ​ස  10400 2016 05 31, 8 41 → 9 50
+octpt: information parameters by the complex of kodesign.cfr.prop.show all recipients' discribed furnitue:changelogic stack:puttype → Ref: උත්තිය නම් උපාසකගේ ලෙණ සතරදෙසි​න් පැමිණියාවූත් නොපැමිණියාවූත් සංඝයාට දෙන ලදී
+[2025-07-23 20:37:20] Sample 3: Input: දත්ත දෙවියන් ලෙණ සංඝයා → Pred: ද​ළ 10 00ـъ 20→ incorpot: options:антерж 9 ■ summary:από 3050хςίдия
+outpurchange:offpath:بدحط 8 60reviews experimentadosignal:its process.php:
+123456789Navback:pdf:disabled:first to crash:nodelikEndr::rub:unique → Ref: දත්ත න​ම් දෙවියන්ගේ ලෙණ සංඝයාට දෙන ලදී
+[2025-07-23 20:37:20] Sample 4: Input: සුමනගුත්ත ප්‍රධානි පියාණන් තිස්ස ප්‍රධානි ලෙණ සංඝයා → Pred: ස৔ම​□ introductions: company name, site map of this post:№ u reserved for youtube.cat web details.php?id=20180304050060&token=123456789&quot; viewsolary 1990 kiiğл 07.02.14 → Releavably:price:0$ COMPANY NAME:http://show.docum → Ref: සුමනගුත්ත න​ම් ප්‍රධානිගේ පියාණන් වන තිස්ස නම් ප්‍රධානිගේ ලෙණ සංඝයාට දෙන ලදී
+[2025-07-23 20:37:20] Epoch 2, Validation BLEU Score: 0.0
+[2025-07-23 20:37:20] Epoch 2, Learning Rate: 8.1e-05
+[2025-07-23 20:37:29] New best model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala with Val Loss: 6.4609005300691385e-06
+[2025-07-27 18:53:15] Starting training on device: cuda
+[2025-07-27 18:53:23] Loaded 5321 total examples (4256 train, 1065 val)
+[2025-07-27 18:53:23] Input length stats: mean=4.53, max=10, min=3
+[2025-07-27 18:53:23] Output length stats: mean=7.03, max=13, min=3
+[2025-07-27 18:53:25] Training started
+[2025-07-27 19:25:04] Epoch 1, Average Train Loss: 0.690128977113199
+[2025-07-27 19:25:38] Epoch 1, Average Validation Loss: 0.001813312701929629
+[2025-07-27 20:04:46] Starting training on device: cuda
+[2025-07-27 20:04:53] Loaded 5321 total examples (4256 train, 1065 val)
+[2025-07-27 20:04:53] Input length stats: mean=4.53, max=10, min=3
+[2025-07-27 20:04:53] Output length stats: mean=7.03, max=13, min=3
+[2025-07-27 20:04:53] Training started
+[2025-07-27 20:41:57] Epoch 1, Average Train Loss: 0.7038289129110151
+[2025-07-27 20:42:56] Epoch 1, Average Validation Loss: 0.001685140647815943
+[2025-07-27 20:42:56] Epoch 1, Learning Rate: 9e-05
+[2025-07-27 20:43:00] Model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala\final\epoch_1
+[2025-07-27 21:23:49] Epoch 2, Average Train Loss: 0.0022211086863023065
+[2025-07-27 21:24:47] Epoch 2, Average Validation Loss: 0.00036569658557565854
+[2025-07-27 21:24:47] Epoch 2, Learning Rate: 8.1e-05
+[2025-07-27 21:24:51] Model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala\final\epoch_2
+[2025-07-27 21:24:51] Training completed. Final model saved to D:\University Files\4th year\Research\Project\sinhala_nlp_pipeline\morph_completion\..\models\byt5_sinhala\final

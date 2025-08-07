@@ -1,0 +1,39 @@
+{
+    "rules": [
+        {
+            "error": "මම යන්නෙ පාසල",
+            "correction": "මම පාසලට යනවා",
+            "description": "Corrects verb usage and adds the correct postposition."
+        },
+        {
+            "error": "ඔයා කෑවා කෑම",
+            "correction": "ඔයා කෑම කෑවා",
+            "description": "Fixes incorrect word order in verb-object sentence."
+        },
+        {
+            "error": "අපි ගියෙ ගමේ",
+            "correction": "අපි ගමේට ගියෙමු",
+            "description": "Adds proper suffix to indicate past action."
+        },
+        {
+            "error": "මට යන්න ඕනෙ ගෙදර",
+            "correction": "මට ගෙදර යන්න ඕනෙ",
+            "description": "Corrects sentence structure for modal verbs."
+        },
+        {
+            "error": "මට කැමති කුරුඳු පානය",
+            "correction": "මට කුරුඳු පානය කැමති",
+            "description": "Fixes subject-predicate-object order."
+        },
+        {
+            "error": "ඒක හොඳයිද?",
+            "correction": "ඒක හොඳද?",
+            "description": "Removes redundant verb ending for interrogative sentences."
+        },
+        {
+            "error": "අද කාලගුණය වරදියි",
+            "correction": "අද කාලගුණය නරකයි",
+            "description": "Replaces unnatural phrasing with a proper adjective."
+        }
+    ]
+}

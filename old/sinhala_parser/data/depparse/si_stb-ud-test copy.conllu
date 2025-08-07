@@ -1,0 +1,120 @@
+# sent_id = 1091
+# text = අද තත්ත්වය බොහෝ සෙයින් ම වෙනස් ය .
+# translit = ada tattvaya bohō seyin ma venas ya .
+1	අද	අද	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	2	nmod	_	Translit=ada|LTranslit=ada
+2	තත්ත්වය	තත්ත්ව	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	6	nsubj	_	Translit=tattvaya|LTranslit=tattva
+3	බොහෝ	බොහෝ	NOUN	_	Case=Nom	6	obl	_	Translit=bohō|LTranslit=bohō
+4	සෙයින්	සෙයින්	NOUN	_	_	3	dep	_	Translit=seyin|LTranslit=seyin
+5	ම	ම	PART	_	AdpType=Post	3	case	_	Translit=ma|LTranslit=ma
+6	වෙනස්	වෙනස	NOUN	_	Case=Nom|Gender=Neut	0	root	_	Translit=venas|LTranslit=venasa
+7	ය	ය	PART	_	AdpType=Post	6	dep	_	Translit=ya|LTranslit=ya
+8	.	.	PUNCT	_	_	6	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1092
+# text = මේ කතිකාව පිළිබඳ කිසිඳු හැඟීමක් අපට නැත .
+# translit = mē katikāva piḷibaňda kisiňdu hæňgīmak apaṭa næta .
+1	මේ	මේ	DET	_	_	2	det	_	Translit=mē|LTranslit=mē
+2	කතිකාව	කතිකා	NOUN	_	Case=Acc|Definite=Def|Gender=Neut|Number=Sing	5	nmod	_	Translit=katikāva|LTranslit=katikā
+3	පිළිබඳ	පිළිබඳ	ADP	_	AdpType=Post	2	case	_	Translit=piḷibaňda|LTranslit=piḷibaňda
+4	කිසිඳු	කිසිඳු	DET	_	_	5	det	_	Translit=kisiňdu|LTranslit=kisiňdu
+5	හැඟීමක්	හැඟෙ	NOUN	_	Case=Acc|Definite=Ind|Number=Sing|VerbForm=Vnoun	7	obj	_	Translit=hæňgīmak|LTranslit=hæňge
+6	අපට	අපි	PRON	_	Animacy=Anim|Case=Dat|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	Translit=apaṭa|LTranslit=api
+7	නැත	නෑ	AUX	_	Polarity=Neg|VerbForm=Fin	0	root	_	Translit=næta|LTranslit=nǣ
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1093
+# text = එබඳු මිනිසුන් දඩයම් කිරීම ධනපති ක්‍රමයේ ලක්ෂණයෙකි .
+# translit = ebaňdu minisun daḍayam kirīma dhanapati kramayē lakṣaṇayeki .
+1	එබඳු	එබඳු	DET	_	_	2	det	_	Translit=ebaňdu|LTranslit=ebaňdu
+2	මිනිසුන්	මිනිස්	NOUN	_	Animacy=Anim|Case=Acc|Number=Plur	3	obj	_	Translit=minisun|LTranslit=minis
+3	දඩයම්	දඩයම	NOUN	_	Animacy=Inan|Definite=Def|Gender=Neut|Number=Plur	7	csubj	_	Translit=daḍayam|LTranslit=daḍayama
+4	කිරීම	කර	NOUN	_	Case=Nom|Definite=Def|Number=Sing|VerbForm=Ger	3	compound:lvc	_	Translit=kirīma|LTranslit=kara
+5	ධනපති	ධනපති	NOUN	_	Case=Nom	6	compound	_	Translit=dhanapati|LTranslit=dhanapati
+6	ක්‍රමයේ	ක්‍රම	NOUN	_	Animacy=Inan|Case=Gen|Definite=Def|Gender=Neut|Number=Sing	7	nmod:poss	_	Translit=kramayē|LTranslit=krama
+7	ලක්ෂණයෙකි	ලක්ෂණ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	Translit=lakṣaṇayeki|LTranslit=lakṣaṇa
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1094
+# text = කොසෝවෝ යනු සර්බියානු රාජ්‍යයේ සීමිත භූමි කලාපයෙකි .
+# translit = kosōvō yanu sarbiyānu rājyayē sīmita bhūmi kalāpayeki .
+1	කොසෝවෝ	කොසෝවෝ	PROPN	_	Foreign=Yes	7	nsubj	_	Translit=kosōvō|LTranslit=kosōvō
+2	යනු	යන	PART	_	AdpType=Post	1	dep	_	Translit=yanu|LTranslit=yana
+3	සර්බියානු	සර්බියා	PROPN	_	Case=Acc|Foreign=Yes	4	nmod	_	Translit=sarbiyānu|LTranslit=sarbiyā
+4	රාජ්‍යයේ	රාජ්‍ය	NOUN	_	Animacy=Inan|Case=Ine|Definite=Def|Gender=Neut|Number=Sing	7	obl:lmod	_	Translit=rājyayē|LTranslit=rājya
+5	සීමිත	සීමිත	ADJ	_	_	7	amod	_	Translit=sīmita|LTranslit=sīmita
+6	භූමි	භූමි	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	7	nmod	_	Translit=bhūmi|LTranslit=bhūmi
+7	කලාපයෙකි	කලාප	NOUN	_	Animacy=Inan|Case=Loc|Definite=Ind|Gender=Neut|Number=Sing	0	root	_	Translit=kalāpayeki|LTranslit=kalāpa
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1095
+# text = ඒ හැම ලිපියක ම වැදගත් උපදේශ තිබිණි .
+# translit = ē hæma lipiyaka ma vædagat upadēśa tibiṇi .
+1	ඒ	ඒ	PRON	_	Case=Nom|Gender=Neut|PronType=Dem	3	det	_	Translit=ē|LTranslit=ē
+2	හැම	හැම	DET	_	_	3	det	_	Translit=hæma|LTranslit=hæma
+3	ලිපියක	ලිපි	NOUN	_	Animacy=Inan|Case=Ine|Definite=Ind|Gender=Neut|Number=Sing	7	obl	_	Translit=lipiyaka|LTranslit=lipi
+4	ම	ම	PART	_	AdpType=Post	3	dep	_	Translit=ma|LTranslit=ma
+5	වැදගත්	වැදගත්	ADJ	_	Degree=Pos	6	amod	_	Translit=vædagat|LTranslit=vædagat
+6	උපදේශ	උපදේශ	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Gender=Neut|Number=Plur	7	nsubj	_	Translit=upadēśa|LTranslit=upadēśa
+7	තිබිණි	තිබෙ	AUX	_	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	Translit=tibiṇi|LTranslit=tibe
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1096
+# text = ආර්ථිකය හා සංස්කෘතිය ද සාඩම්බර තත්ත්වයක පැවැතිණි .
+# translit = ārthikaya hā saṁskr̥tiya da sāḍambara tattvayaka pævætiṇi .
+1	ආර්ථිකය	ආර්ථික	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Gender=Neut|Number=Sing	7	nsubj	_	Translit=ārthikaya|LTranslit=ārthika
+2	හා	හා	CCONJ	_	_	1	cc	_	Translit=hā|LTranslit=hā
+3	සංස්කෘතිය	සංස්කෘති	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Gender=Neut|Number=Sing	1	conj	_	Translit=saṁskr̥tiya|LTranslit=saṁskr̥ti
+4	ද	ද	PART	_	_	7	advmod	_	Translit=da|LTranslit=da
+5	සාඩම්බර	සාඩම්බර	ADJ	_	Degree=Pos	6	amod	_	Translit=sāḍambara|LTranslit=sāḍambara
+6	තත්ත්වයක	තත්ත්ව	NOUN	_	Case=Loc|Definite=Ind|Gender=Neut|Number=Sing	7	obl	_	Translit=tattvayaka|LTranslit=tattva
+7	පැවැතිණි	පවති	VERB	_	Mood=Ind|Tense=Past|VerbForm=Fin|Voice=Pass	0	root	_	Translit=pævætiṇi|LTranslit=pavati
+8	.	.	PUNCT	_	_	7	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1097
+# text = එම ප්‍රදේශ හතර අතින් වටකරනු ලැබ තිබේ .
+# translit = ema pradēśa hatara atin vaṭakaranu læba tibē .
+1	එම	ඒ	PRON	_	PronType=Dem	2	det	_	Translit=ema|LTranslit=ē
+2	ප්‍රදේශ	ප්‍රදේශ	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	5	nsubj	_	Translit=pradēśa|LTranslit=pradēśa
+3	හතර	හතර	NUM	_	NumType=Card	4	nummod	_	Translit=hatara|LTranslit=hatara
+4	අතින්	අත	NOUN	_	Case=Abl|Definite=Def|Gender=Neut|Number=Sing	5	obl	_	Translit=atin|LTranslit=ata
+5	වටකරනු	වටකර	VERB	_	Mood=Ind|VerbForm=Ger	0	root	_	Translit=vaṭakaranu|LTranslit=vaṭakara
+6	ලැබ	ලබ	AUX	_	Aspect=Perf|Mood=Ind|VerbForm=Part	5	aux:pass	_	Translit=læba|LTranslit=laba
+7	තිබේ	තිබෙ	AUX	_	Tense=Pres|VerbForm=Fin	5	aux	_	Translit=tibē|LTranslit=tibe
+8	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1098
+# text = තෙවනුව ඔවුන් වන්නියේ මෙහෙයුම්වලට අත පොවනු ඇත .
+# translit = tevanuva ovun vanniyē meheyumvalaṭa ata povanu æta .
+1	තෙවනුව	තෙවන	ADV	_	AdvType=Tim	5	advmod	_	Translit=tevanuva|LTranslit=tevana
+2	ඔවුන්	ඔවුහු	PRON	_	Animacy=Anim|Case=Acc|Number=Plur|Person=3|PronType=Prs	5	nsubj	_	Translit=ovun|LTranslit=ovuhu
+3	වන්නියේ	වන්නි	NOUN	_	Animacy=Inan|Case=Gen|Definite=Def|Number=Sing	4	nmod:poss	_	Translit=vanniyē|LTranslit=vanni
+4	මෙහෙයුම්වලට	මෙහෙයුම	NOUN	_	Animacy=Inan|Case=Dat|Number=Plur	5	obl	_	Translit=meheyumvalaṭa|LTranslit=meheyuma
+5	අත	අත	NOUN	_	Animacy=Inan|Case=Nom|Definite=Def|Number=Sing	0	root	_	Translit=ata|LTranslit=ata
+6	පොවනු	පොවන	VERB	_	Mood=Ind|VerbForm=Ger	5	compound	_	Translit=povanu|LTranslit=povana
+7	ඇත	ඇත	AUX	_	VerbForm=Fin	6	aux	_	Translit=æta|LTranslit=æta
+8	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1099
+# text = ඔහුට තවදුරටත් සමාවක් දිය නො හැකි ය .
+# translit = ohuṭa tavaduraṭat samāvak diya no hæki ya .
+1	ඔහුට	ඔහු	PRON	_	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	Translit=ohuṭa|LTranslit=ohu
+2	තවදුරටත්	තවදුරට	ADV	_	_	4	advmod	_	Translit=tavaduraṭat|LTranslit=tavaduraṭa
+3	සමාවක්	සමාව	NOUN	_	Case=Acc|Definite=Ind|Gender=Neut|Number=Sing	4	obj	_	Translit=samāvak|LTranslit=samāva
+4	දිය	දෙ	VERB	_	Mood=Nec|VerbForm=Inf|Voice=Act	0	root	_	Translit=diya|LTranslit=de
+5	නො	නො	PART	_	_	4	dep	_	Translit=no|LTranslit=no
+6	හැකි	හැකි	AUX	_	VerbForm=Fin	4	aux	_	Translit=hæki|LTranslit=hæki
+7	ය	ය	PART	_	AdpType=Post	4	dep	_	Translit=ya|LTranslit=ya
+8	.	.	PUNCT	_	_	4	punct	_	Translit=.|LTranslit=.
+
+# sent_id = 1100
+# text = ඔහු අවධානය යොමුකර ඇත්තේ සල්ලි ගැන පමණය .
+# translit = ohu avadhānaya yomukara ættē salli gæna pamaṇaya .
+1	ඔහු	ඔහු	PRON	_	Case=Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	Translit=ohu|LTranslit=ohu
+2	අවධානය	අවධාන	NOUN	_	Case=Nom|Definite=Def|Gender=Neut|Number=Sing	3	obj	_	Translit=avadhānaya|LTranslit=avadhāna
+3	යොමුකර	යොමුකර	VERB	_	Tense=Past|VerbForm=Part	5	compound:lvc	_	Translit=yomukara|LTranslit=yomukara
+4	ඇත්තේ	ඇත	AUX	_	VerbForm=Part	3	aux	_	Translit=ættē|LTranslit=æta
+5	සල්ලි	සල්ලි	NOUN	_	Animacy=Inan|Case=Acc|Definite=Def|Number=Ptan	0	root	_	Translit=salli|LTranslit=salli
+6	ගැන	ගැන	ADP	_	AdpType=Post	5	case	_	Translit=gæna|LTranslit=gæna
+7	පමණය	පමණ	ADV	_	_	5	obl	_	Translit=pamaṇaya|LTranslit=pamaṇa
+8	.	.	PUNCT	_	_	5	punct	_	Translit=.|LTranslit=.
+

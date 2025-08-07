@@ -1,0 +1,4713 @@
+# text = ප්‍රධානි සුදින්න ලෙණ සංඝයා
+# sent_id = 0
+1	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සුදින්න	සුදින්න	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = බ්‍රාහ්මණ සුම්ම ලෙණ සංඝයා
+# sent_id = 1
+1	බ්‍රාහ්මණ	බ්‍රාහ්මණ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සුම්ම	සුම්ම	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගම් ප්‍රධානි සිව පුත් වන ගම් ප්‍රධානි කම්බොජ ලෙණ
+# sent_id = 2
+1	ගම්	ගම්	NOUN	_	_	2	appos	_	_
+2	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	3	appos	_	_
+3	සිව	සිව	PROPN	N-MASC	_	0	root	_	_
+4	පුත්	පුත්	NOUN	_	_	3	compound	_	_
+5	වන	වන	ADP	_	_	4	case	_	_
+6	ගම්	ගම්	NOUN	_	_	8	appos	_	_
+7	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	8	appos	_	_
+8	කම්බොජ	කම්බොජ	PROPN	_	_	9	nmod	_	_
+9	ලෙණ	ලෙණ	NOUN	_	_	3	nmod	_	_
+
+# text = අයුෂ්මන්ත ධම්මගුත්ත ලෙණ සංඝයා
+# sent_id = 3
+1	අයුෂ්මන්ත	අයුෂ්මන්ත	PROPN	N-MASC	_	2	appos	_	_
+2	ධම්මගුත්ත	ධම්මගුත්ත	PROPN	N-MASC	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අචාර්ය පරාසරි ලෙණ
+# sent_id = 4
+1	අචාර්ය	අචාර්ය	NOUN	TITLE-MASC	_	2	appos	_	_
+2	පරාසරි	පරාසරි	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = සංඝයා ප්‍රමුඛ ඵුස්ස පුත් වන ප්‍රමුඛ සුදෙව ලෙණ
+# sent_id = 5
+1	සංඝයා	සංඝයා	NOUN	_	_	2	appos	_	_
+2	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	3	appos	_	_
+3	ඵුස්ස	ඵුස්ස	PROPN	N-MASC	_	7	appos	_	_
+4	පුත්	පුත්	NOUN	_	_	3	compound	_	_
+5	වන	වන	ADP	_	_	4	case	_	_
+6	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	7	appos	_	_
+7	සුදෙව	සුදෙව	PROPN	_	_	8	nmod	_	_
+8	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = දෙවියන් ප්‍රියවූ මහරජු ආචාර්ය බ්‍රාහ්මණ ගොභූති ලෙණ
+# sent_id = 6
+1	දෙවියන්	දෙවියන්	NOUN	TITLE-MASC	_	2	appos	_	_
+2	ප්‍රියවූ	ප්‍රියවූ	NOUN	_	_	3	appos	_	_
+3	මහරජු	මහරජු	NOUN	TITLE-MASC	_	4	appos	_	_
+4	ආචාර්ය	ආචාර්ය	NOUN	TITLE-MASC	_	6	appos	_	_
+5	බ්‍රාහ්මණ	බ්‍රාහ්මණ	NOUN	TITLE-MASC	_	6	appos	_	_
+6	ගොභූති	ගොභූති	PROP	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = උපාසක සුමන පටිභානකූ ලෙණ සංඝයා
+# sent_id = 7
+1	උපාසක	උපාසක	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සුමන	සුමන	PROP	N-MASC	_	4	nmod	_	_
+3	පටිභානකූ	පටිභානකූ	PROP	_	_	4	nmod	_	_
+4	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+5	සංඝයා	සංඝයා	NOUN	_	_	4	obl	_	_
+
+# text = ගෘහපති රක්ඛිත පුත් වන උපාලි ලෙණ සංඝයා
+# sent_id = 8
+1	ගෘහපති	ගෘහපති	NOUN	TITLE-MASC	_	2	appos	_	_
+2	රක්ඛිත	රක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාලි	උපාලි	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	nmod	_	_
+
+# text = චූලතිස්ස ලෙණ සංඝයා
+# sent_id = 9
+1	චූලතිස්ස	චූලතිස්ස	PROP	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = වාද ලෙණ
+# sent_id = 10
+1	වාද	වාද	PROP	N-LOC	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = ප්‍රමුඛ නන්දික පුත් වන ප්‍රමුඛ මිත්ත මහාසුදස්සන ලෙණ සංඝයා පරිත්‍යාග කරන ලදී
+# sent_id = 11
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	නන්දික	නන්දික	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	appos	_	_
+7	මහාසුදස්සන	මහාසුදස්සන	PROPN	_	_	8	nmod	_	_
+8	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+9	සංඝයා	සංඝයා	NOUN	_	_	8	nmod	_	_
+10	පරිත්‍යාග	පරිත්‍යාග	VERB	_	_	8	nmod	_	_
+11	කරන	කරන	VERB	_	_	8	nmod	_	_
+12	ලදී	ලදී	VERB	_	_	8	nmod	_	_
+
+# text = ප්‍රධානි තිස්සභූති ද ප්‍රධානි කුඩකතිස්ස ද
+# sent_id = 12
+1	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	2	appos	_	_
+2	තිස්සභූති	තිස්සභූති	PROPN	_	_	3	appos	_	_
+3	ද	ද	PART	_	_	5	appos	_	_
+4	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	5	appos	_	_
+5	කුඩකතිස්ස	කුඩකතිස්ස	PROPN	_	_	0	root	_	_
+6	ද	ද	PART	_	_	5	appos	_	_
+
+# text = ප්‍රමුඛ සිව ලෙණ සංඝයා
+# sent_id = 13
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සිව	සිව	PROPN	N-MASC	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රමුඛ සුමන පුත් වන ප්‍රමුඛ රම්සිමාලී ලෙණ සංඝයා
+# sent_id = 14
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	N-MASC	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	6	appos	_	_
+6	රම්සිමාලී	රම්සිමාලී	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රමුඛ නුගුය-වෙලු පුතුන් වන සිගර-මලු සහ නුගුය-මලු ලෙණ
+# sent_id = 15
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	නුගුය-වෙලු	නුගුය-වෙලු	PROPN	_	_	3	nmod	_	_
+3	පුතුන්	පුතුන්	NOUN	_	_	7	appos	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිගර-මලු	සිගර-මලු	PROPN	_	_	7	appos	_	_
+6	සහ	සහ	CCONJ	_	_	7	appos	_	_
+7	නුගුය-මලු	නුගුය-මලු	PROPN	_	_	8	nmod	_	_
+8	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = ප්‍රධානි සුමන ලෙණ
+# sent_id = 16
+1	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	N-MASC	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = ගම් ප්‍රධානි නාග පුත් වන ගම් ප්‍රධානි තිස්ස විසින් කරවන ලද මෙම ලෙණ සෙන්පති ඣුවය සංඝයා පරිත්‍යාග කරන ලදී
+# sent_id = 17
+1	ගම්	ගම්	NOUN	_	_	2	appos	_	_
+2	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	3	appos	_	_
+3	නාග	නාග	PROPN	N-MASC	_	0	root	_	_
+4	පුත්	පුත්	NOUN	_	_	3	appos	_	_
+5	වන	වන	ADP	_	_	4	case	_	_
+6	ගම්	ගම්	NOUN	_	_	8	appos	_	_
+7	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	8	appos	_	_
+8	තිස්ස	තිස්ස	PROPN	N-MASC	_	9	appos	_	_
+9	විසින්	විසින්	ADP	_	_	10	appos	_	_
+10	කරවන	කරවන	VERB	_	_	11	appos	_	_
+11	ලද	ලද	VERB	_	_	12	appos	_	_
+12	මෙම	මෙම	DET	_	_	13	appos	_	_
+13	ලෙණ	ලෙණ	NOUN	_	_	15	appos	_	_
+14	සෙන්පති	සෙන්පති	NOUN	TITLE-MASC	_	15	appos	_	_
+15	ඣුවය	ඣුවය	PROPN	_	_	16	appos	_	_
+16	සංඝයා	සංඝයා	NOUN	_	_	17	appos	_	_
+17	පරිත්‍යාග	පරිත්‍යාග	VERB	_	_	18	appos	_	_
+18	කරන	කරන	VERB	_	_	3	appos	_	_
+19	ලදී	ලදී	VERB	_	_	18	nmod	_	_
+
+# text = ප්‍රමුඛ ඵුස්ස පුත් වන පින්ගල සුමන
+# sent_id = 18
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	N-MASC	_	3	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	පින්ගල	පින්ගල	PROPN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	N-MASC	_	0	root	_	_
+
+# text = තොටගමිහි ගෘහපති ඔඣක තිස්ස පුත් වන උපාසක, නළු-තිස්ස පරිත්‍යාගය සංඝයා පිහිටුවී
+# sent_id = 19
+1	තොටගමිහි	තොටගමිහි	PROPN	_	_	3	appos	_	_
+2	ගෘහපති	ගෘහපති	NOUN	TITLE-MASC	_	4	appos	_	_
+3	ඔඣක	ඔඣක	PROPN	_	_	4	appos	_	_
+4	තිස්ස	තිස්ස	PROPN	N-MASC	_	0	root	_	_
+5	පුත්	පුත්	NOUN	_	_	8	appos	_	_
+6	වන	වන	ADP	_	_	5	case	_	_
+7	උපාසක	උපාසක	NOUN	TITLE-MASC	_	8	appos	_	_
+8	තිස්ස	තිස්ස	PROPN	_	_	9	nmod	_	_
+9	පරිත්‍යාගය	පරිත්‍යාගය	VERB	_	_	4	appos	_	_
+10	සංඝයා	සංඝයා	NOUN	_	_	11	nmod	_	_
+11	පිහිටුවී	පිහිටුවී	VERB	_	_	8	appos	_	_
+
+# text = ප්‍රධානි සුමනගුත්ත ලෙණ
+# sent_id = 20
+1	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සුමනගුත්ත	සුමනගුත්ත	PROPN	N-MASC	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = ප්‍රමුඛ චෙම ලෙණ සංඝයා
+# sent_id = 21
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	චෙම	චෙම	PROP	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රමුඛ රොක පුත් වන ප්‍රමුඛ තිස්ස පුත් වූ ප්‍රමුඛ සදිල ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 22
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	රොක	රොක	PROPN	_	_	6	appos	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	N-MASC	_	7	nmod	_	_
+7	පුත්	පුත්	NOUN	_	_	10	appos	_	_
+8	වූ	වූ	ADP	_	_	10	appos	_	_
+9	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	10	appos	_	_
+10	සදිල	සදිල	PROPN	_	_	11	nmod	_	_
+11	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+12	පැමිණියාවූත්	පැමිණියාවූත්	VERB	_	_	11	nmod	_	_
+13	නොපැමිණියාවූත්	නොපැමිණියාවූත්	VERB	_	_	11	nmod	_	_
+14	සතරදෙස	සතරදෙස	NOUN	_	_	11	nmod	_	_
+15	සංඝයා	සංඝයා	NOUN	_	_	11	nmod	_	_
+
+# text = ප්‍රමුඛ සිව ලෙණ සතරදිග සංඝයා දෙන ලදී
+# sent_id = 23
+1	ප්‍රමුඛ	ප්‍රමුඛ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	සිව	සිව	PROPN	N-MASC	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සතරදිග	සතරදිග	NOUN	_	_	3	obl	_	_
+5	සංඝයා	සංඝයා	NOUN	_	_	3	nmod	_	_
+6	දෙන	දෙන	VERB	_	_	3	nmod	_	_
+7	ලදී	ලදී	VERB	_	_	3	nmod	_	_
+
+# text = බුද්ධරක්ඛිත තෙරුණ් ලෙණ, බයභෙරව
+# sent_id = 24
+1	බුද්ධරක්ඛිත	බුද්ධරක්ඛිත	PROPN	_	_	2	appos	_	_
+2	තෙරුණ්	තෙරුණ්	NOUN	TITLE-FEM	_	3	appos	_	_
+3	ලෙණ,	ලෙණ,	NOUN	_	_	4	appos	_	_
+4	බයභෙරව	බයභෙරව	PROPN	_	_	0	root	_	_
+
+# text = ධම්මගුත්ත තෙරුණ් ලෙණ
+# sent_id = 25
+1	ධම්මගුත්ත	ධම්මගුත්ත	PROPN	N-MASC	_	2	appos	_	_
+2	තෙරුණ්	තෙරුණ්	NOUN	TITLE-FEM	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = අනුරාධ තෙරුණ් ද රන්කරු සුමන ද මනාපදස්සන නම් ලෙන
+# sent_id = 26
+1	අනුරාධ	අනුරාධ	PROPN	_	_	2	appos	_	_
+2	තෙරුණ්	තෙරුණ්	NOUN	TITLE-FEM	_	3	appos	_	_
+3	ද	ද	PART	_	_	5	appos	_	_
+4	රන්කරු	රන්කරු	NOUN	TITLE-MASC	_	5	case	_	_
+5	සුමන	සුමන	PROPN	N-MASC	_	7	appos	_	_
+6	ද	ද	PART	_	_	7	appos	_	_
+7	මනාපදස්සන	මනාපදස්සන	PROPN	N-LOC	_	8	appos	_	_
+8	නම්	නම්	ADP	_	_	0	root	_	_
+9	ලෙන	ලෙන	NOUN	_	_	7	appos	_	_
+
+# text = ප්‍රධානි උපතිස්ස තෙරුණ් ලෙණ
+# sent_id = 27
+1	ප්‍රධානි	ප්‍රධානි	NOUN	TITLE-MASC	_	2	appos	_	_
+2	උපතිස්ස	උපතිස්ස	PROPN	_	_	4	nmod	_	_
+3	තෙරුණ්	තෙරුණ්	NOUN	TITLE-FEM	_	4	nmod	_	_
+4	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+
+# text = බ්‍රාහ්මණ මරුකූටහි ගොතම ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 28
+1	බ්‍රාහ්මණ	බ්‍රාහ්මණ	NOUN	TITLE-MASC	_	2	appos	_	_
+2	මරුකූටහි	මරුකූටහි	PROPN	_	_	4	nmod	_	_
+3	ගොතම	ගොතම	PROPN	_	_	4	nmod	_	_
+4	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+5	පැමිණියාවූත්	පැමිණියාවූත්	VERB	_	_	4	compound	_	_
+6	නොපැමිණියාවූත්	නොපැමිණියාවූත්	VERB	_	_	4	nmod	_	_
+7	සතරදෙස	සතරදෙස	NOUN	_	_	4	nmod	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	4	obl	_	_
+
+# text = ජිත තෙරුණ් මහාසුදස්සන නම් ලෙණ, සහ උපාසිකා තිස්සාගේ, තෙරුණ් බාල සහෝදරිය
+# sent_id = 29
+1	ජිත	ජිත	PROP	_	_	2	appos	_	_
+2	තෙරුණ්	තෙරුණ්	NOUN	TITLE-FEM	_	3	appos	_	_
+3	මහාසුදස්සන	මහාසුදස්සන	PROP	_	_	4	appos	_	_
+4	නම්	නම්	ADP	_	_	5	appos	_	_
+5	ලෙණ,	ලෙණ,	NOUN	_	_	6	appos	_	_
+6	සහ	සහ	CCONJ	_	_	8	appos	_	_
+7	උපාසිකා	උපාසිකා	NOUN	TITLE-FEM	_	8	appos	_	_
+8	තිස්සාගේ,	තිස්සාගේ,	PROP	_	_	9	appos	_	_
+9	තෙරුණ්	තෙරුණ්	NOUN	TITLE-FEM	_	10	appos	_	_
+10	බාල	බාල	ADJ	_	_	0	root	_	_
+11	සහෝදරිය	සහෝදරිය	NOUN	_	_	10	appos	_	_
+
+# text = තිස්ස තෙරුණ් ලෙණ සතරදෙස භික්ෂු සංඝයා පරිත්‍යාග කරන ලදී උපාසක නාග පියාණන් ලෙණ
+# sent_id = 30
+1	තිස්ස	තිස්ස	PROP	N-MASC	_	2	appos	_	_
+2	තෙරුණ්	තෙරුණ්	NOUN	TITLE-FEM	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සතරදෙස	සතරදෙස	NOUN	_	_	3	case	_	_
+5	භික්ෂු	භික්ෂු	NOUN	_	_	3	case	_	_
+6	සංඝයා	සංඝයා	NOUN	_	_	7	appos	_	_
+7	පරිත්‍යාග	පරිත්‍යාග	VERB	_	_	8	appos	_	_
+8	කරන	කරන	VERB	_	_	9	appos	_	_
+9	ලදී	ලදී	VERB	_	_	11	appos	_	_
+10	උපාසක	උපාසක	NOUN	TITLE-MASC	_	11	appos	_	_
+11	නාග	නාග	PROP	N-MASC	_	12	appos	_	_
+12	පියාණන්	පියාණන්	NOUN	TITLE-MASC	_	13	nmod	_	_
+13	ලෙණ	ලෙණ	NOUN	_	_	3	nmod	_	_
+
+# text = ගණකාධිකාරී රොහක ලෙන සංඝයා පවරන ලදී
+# sent_id = 31
+1	ගණකාධිකාරී	ගණකාධිකාරී	NOUN	TITLE-MASC	_	2	appos	_	_
+2	රොහක	රොහක	PROPN	_	_	3	appos	_	_
+3	ලෙන	ලෙන	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	5	appos	_	_
+5	පවරන	පවරන	VERB	_	_	6	appos	_	_
+6	ලදී	ලදී	VERB	_	_	3	appos	_	_
+
+# text = උපාසක සිව ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 32
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 33
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ගෘහපති උත්තර පුත් වන ගෘහපති සුමන ලෙණ සංඝයා කරවන ලද
+# sent_id = 34
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති අභය ලෙණ  සංඝයා
+# sent_id = 35
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත සුමන සහෝදරයා වන ආයුෂ්මන්ත සිව ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 36
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය සොණ ලෙණ  සංඝයා
+# sent_id = 37
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත තිස්ස ලෙණ සංඝයා
+# sent_id = 38
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් නාග ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 39
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සොණ ලෙණ සංඝයා
+# sent_id = 40
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික දත්ත ලෙණ සංඝයා
+# sent_id = 41
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය තිස්ස ලෙණ සංඝයා
+# sent_id = 42
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 43
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය ඵුස්ස පුත් වන ආචාර්ය සුමන ලෙණ සංඝයා දෙන ලදී
+# sent_id = 44
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආචාර්ය	ආචාර්ය	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = තෙරුණ් දත්ත සහෝදරයා වන දත්ත ලෙණ සංඝයා
+# sent_id = 45
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 46
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා අභය ලෙණ  සංඝයා
+# sent_id = 47
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති උත්තර පුත් වන ගෘහපති මිත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 48
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 49
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි අභය ලෙණ  සංඝයා
+# sent_id = 50
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 51
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 52
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි ඵුස්ස දියණිය වන කණ්හ ලෙණ සංඝයා
+# sent_id = 53
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි තිස්ස ලෙණ සංඝයා
+# sent_id = 54
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 55
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා උත්තර දියණිය වන මිත්ත ලෙණ සංඝයා
+# sent_id = 56
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය ධම්මරක්ඛිත භාර්යාව වන කණ්හ ලෙණ සංඝයා
+# sent_id = 57
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික උත්තර ලෙණ සංඝයා
+# sent_id = 58
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය අභය ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 59
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය ධම්මරක්ඛිත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 60
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 61
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් අභය ලෙණ සංඝයා
+# sent_id = 62
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය සුමන ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 63
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි උත්තර පුත් වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 64
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = මිත්ත ලෙණ සංඝයා
+# sent_id = 65
+1	මිත්ත	මිත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ගෘහපති සුමන භාර්යාව වන ගෘහපති ඵුස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 66
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 67
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක දත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 68
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා දත්ත දියණිය වන උපාසිකා මිත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 69
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසිකා	උපාසිකා	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි සොණ භාර්යාව වන ප්‍රධානි උත්තර ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 70
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = මිත්ත ලෙණ සංඝයා
+# sent_id = 71
+1	මිත්ත	මිත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික සුමන ලෙණ සංඝයා
+# sent_id = 72
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 73
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක නාග භාර්යාව වන සුමන ලෙණ සංඝයා
+# sent_id = 74
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආයුෂ්මන්ත තිස්ස ලෙණ  සංඝයා
+# sent_id = 75
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි අභය භාර්යාව වන තිස්ස ලෙණ සංඝයා
+# sent_id = 76
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික නාග ලෙණ සංඝයා
+# sent_id = 77
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති සිව ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 78
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = දත්ත ලෙණ සංඝයා
+# sent_id = 79
+1	දත්ත	දත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි දත්ත ලෙණ සංඝයා
+# sent_id = 80
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් නාග දියණිය වන තෙරුණ් නාග ලෙණ සංඝයා දෙන ලදී
+# sent_id = 81
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	නාග	නාග	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආයුෂ්මන්ත ඵුස්ස පුත් වන සුමන ලෙණ සංඝයා
+# sent_id = 82
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා සොණ පුත් වන දත්ත ලෙණ සංඝයා
+# sent_id = 83
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය සොණ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 84
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 85
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත උත්තර ලෙණ  සංඝයා
+# sent_id = 86
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක තිස්ස ලෙණ සංඝයා
+# sent_id = 87
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 88
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික සොණ ලෙණ  සංඝයා
+# sent_id = 89
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති ඵුස්ස සහෝදරයා වන කණ්හ ලෙණ සංඝයා
+# sent_id = 90
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = මිත්ත ලෙණ සංඝයා
+# sent_id = 91
+1	මිත්ත	මිත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් දත්ත ලෙණ  සංඝයා
+# sent_id = 92
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා තිස්ස භාර්යාව වන උපාසිකා තිස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 93
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසිකා	උපාසිකා	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ස්වාමි අභය පුත් වන අභය ලෙණ සංඝයා
+# sent_id = 94
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 95
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත දත්ත ලෙණ සංඝයා
+# sent_id = 96
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි මිත්ත දියණිය වන ප්‍රධානි සොණ ලෙණ සංඝයා දෙන ලදී
+# sent_id = 97
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	සොණ	සොණ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය අභය ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 98
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = මිත්ත ලෙණ සංඝයා
+# sent_id = 99
+1	මිත්ත	මිත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි තිස්ස ලෙණ  සංඝයා
+# sent_id = 100
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික සුමන ලෙණ  සංඝයා
+# sent_id = 101
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 102
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා අභය පුත් වන සුමන ලෙණ සංඝයා
+# sent_id = 103
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තෙරුණ් දත්ත භාර්යාව වන සුමන ලෙණ සංඝයා
+# sent_id = 104
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය අභය සහෝදරයා වන ආචාර්ය කණ්හ ලෙණ සංඝයා දෙන ලදී
+# sent_id = 105
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආචාර්ය	ආචාර්ය	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 106
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ගෘහපති තිස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 107
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා දත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 108
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි තිස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 109
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක සිව පුත් වන සිව ලෙණ සංඝයා
+# sent_id = 110
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිව	සිව	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ගෘහපති තිස්ස ලෙණ සංඝයා
+# sent_id = 111
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් අභය ලෙණ  සංඝයා
+# sent_id = 112
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය මිත්ත ලෙණ  සංඝයා
+# sent_id = 113
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි සොණ පුත් වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 114
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 115
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා ඵුස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 116
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය තිස්ස දියණිය වන නාග ලෙණ සංඝයා
+# sent_id = 117
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	නාග	නාග	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික සිව දියණිය වන භාණ්ඩාගාරික තිස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 118
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය ධම්මරක්ඛිත සහෝදරයා වන සුමන ලෙණ සංඝයා
+# sent_id = 119
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි සොණ ලෙණ සංඝයා
+# sent_id = 120
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය තිස්ස සහෝදරයා වන අභය ලෙණ සංඝයා
+# sent_id = 121
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තෙරුණ් උත්තර සහෝදරයා වන තෙරුණ් කණ්හ ලෙණ සංඝයා දෙන ලදී
+# sent_id = 122
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති ඵුස්ස ලෙණ  සංඝයා
+# sent_id = 123
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 124
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි අභය භාර්යාව වන නාග ලෙණ සංඝයා
+# sent_id = 125
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	නාග	නාග	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසක නාග ලෙණ  සංඝයා
+# sent_id = 126
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි ධම්මරක්ඛිත දියණිය වන ස්වාමි තිස්ස ලෙණ සංඝයා දෙන ලදී
+# sent_id = 127
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 128
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 129
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි සුමන ලෙණ  සංඝයා
+# sent_id = 130
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි සොණ සහෝදරයා වන ප්‍රධානි සුමන ලෙණ සංඝයා දෙන ලදී
+# sent_id = 131
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 132
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 133
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත ධම්මරක්ඛිත සහෝදරයා වන ආයුෂ්මන්ත දත්ත ලෙණ සංඝයා කරවන ලද
+# sent_id = 134
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසක මිත්ත ලෙණ සංඝයා
+# sent_id = 135
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය උත්තර ලෙණ  සංඝයා
+# sent_id = 136
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත උත්තර ලෙණ සංඝයා
+# sent_id = 137
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 138
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි සොණ ලෙණ  සංඝයා
+# sent_id = 139
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා උත්තර ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 140
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 141
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආචාර්ය මිත්ත පුත් වන ආචාර්ය කණ්හ ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 142
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආචාර්ය	ආචාර්ය	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික අභය ලෙණ සංඝයා
+# sent_id = 143
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය අභය පුත් වන උත්තර ලෙණ සංඝයා
+# sent_id = 144
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා සිව දියණිය වන සොණ ලෙණ සංඝයා
+# sent_id = 145
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආයුෂ්මන්ත දත්ත භාර්යාව වන නාග ලෙණ සංඝයා
+# sent_id = 146
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	නාග	නාග	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තෙරුණ් උත්තර පුත් වන තෙරුණ් නාග ලෙණ සංඝයා කරවන ලද
+# sent_id = 147
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	නාග	නාග	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික තිස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 148
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති සුමන දියණිය වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 149
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය සිව ලෙණ සංඝයා
+# sent_id = 150
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය දත්ත ලෙණ සංඝයා
+# sent_id = 151
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 152
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ගෘහපති අභය පුත් වන ගෘහපති සිව ලෙණ සංඝයා කරවන ලද
+# sent_id = 153
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = තෙරුණ් දත්ත සහෝදරයා වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 154
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි මිත්ත ලෙණ සංඝයා
+# sent_id = 155
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි සොණ ලෙණ සංඝයා
+# sent_id = 156
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය දත්ත ලෙණ සංඝයා
+# sent_id = 157
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් තිස්ස දියණිය වන තෙරුණ් සුමන ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 158
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = තෙරුණ් නාග දියණිය වන දත්ත ලෙණ සංඝයා
+# sent_id = 159
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 160
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආචාර්ය ධම්මරක්ඛිත භාර්යාව වන උත්තර ලෙණ සංඝයා
+# sent_id = 161
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි අභය ලෙණ  සංඝයා
+# sent_id = 162
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 163
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා කණ්හ සහෝදරයා වන නාග ලෙණ සංඝයා
+# sent_id = 164
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	නාග	නාග	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ගෘහපති නාග දියණිය වන මිත්ත ලෙණ සංඝයා
+# sent_id = 165
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික අභය භාර්යාව වන භාණ්ඩාගාරික ධම්මරක්ඛිත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 166
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 167
+1	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = අමාත්‍ය අභය භාර්යාව වන අමාත්‍ය මිත්ත ලෙණ සංඝයා කරවන ලද
+# sent_id = 168
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය තිස්ස දියණිය වන අමාත්‍ය කණ්හ ලෙණ සංඝයා කරවන ලද
+# sent_id = 169
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය තිස්ස ලෙණ සංඝයා
+# sent_id = 170
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති සොණ ලෙණ  සංඝයා
+# sent_id = 171
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 172
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත සිව දියණිය වන ආයුෂ්මන්ත තිස්ස ලෙණ සංඝයා දෙන ලදී
+# sent_id = 173
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ස්වාමි ඵුස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 174
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති සිව සහෝදරයා වන ගෘහපති උත්තර ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 175
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි දත්ත ලෙණ සංඝයා
+# sent_id = 176
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි ඵුස්ස භාර්යාව වන ප්‍රධානි සිව ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 177
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික අභය ලෙණ සංඝයා
+# sent_id = 178
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි දත්ත දියණිය වන ප්‍රධානි සිව ලෙණ සංඝයා කරවන ලද
+# sent_id = 179
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි මිත්ත සහෝදරයා වන ප්‍රධානි නාග ලෙණ සංඝයා දෙන ලදී
+# sent_id = 180
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	නාග	නාග	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය සොණ ලෙණ  සංඝයා
+# sent_id = 181
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා දත්ත ලෙණ සංඝයා
+# sent_id = 182
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය මිත්ත ලෙණ  සංඝයා
+# sent_id = 183
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික සුමන ලෙණ සංඝයා
+# sent_id = 184
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත ඵුස්ස සහෝදරයා වන නාග ලෙණ සංඝයා
+# sent_id = 185
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	නාග	නාග	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 186
+1	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 187
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ගෘහපති අභය දියණිය වන ගෘහපති කණ්හ ලෙණ සංඝයා දෙන ලදී
+# sent_id = 188
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික තිස්ස සහෝදරයා වන භාණ්ඩාගාරික සොණ ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 189
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	සොණ	සොණ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික දත්ත ලෙණ  සංඝයා
+# sent_id = 190
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති නාග දියණිය වන ගෘහපති සිව ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 191
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = මිත්ත ලෙණ සංඝයා
+# sent_id = 192
+1	මිත්ත	මිත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි සිව දියණිය වන ප්‍රධානි සොණ ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 193
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	සොණ	සොණ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි නාග දියණිය වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 194
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි සොණ ලෙණ  සංඝයා
+# sent_id = 195
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි තිස්ස ලෙණ සංඝයා
+# sent_id = 196
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති අභය ලෙණ සංඝයා
+# sent_id = 197
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති අභය භාර්යාව වන ගෘහපති උත්තර ලෙණ සංඝයා දෙන ලදී
+# sent_id = 198
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආයුෂ්මන්ත සුමන ලෙණ  සංඝයා
+# sent_id = 199
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි සොණ ලෙණ සංඝයා
+# sent_id = 200
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික සිව දියණිය වන භාණ්ඩාගාරික අභය ලෙණ සංඝයා දෙන ලදී
+# sent_id = 201
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	අභය	අභය	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි නාග ලෙණ  සංඝයා
+# sent_id = 202
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය තිස්ස ලෙණ සංඝයා
+# sent_id = 203
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික කණ්හ දියණිය වන කණ්හ ලෙණ සංඝයා
+# sent_id = 204
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා සොණ දියණිය වන අභය ලෙණ සංඝයා
+# sent_id = 205
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි කණ්හ ලෙණ සංඝයා
+# sent_id = 206
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත අභය සහෝදරයා වන සොණ ලෙණ සංඝයා
+# sent_id = 207
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආයුෂ්මන්ත ධම්මරක්ඛිත දියණිය වන ආයුෂ්මන්ත සුමන ලෙණ සංඝයා දෙන ලදී
+# sent_id = 208
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආයුෂ්මන්ත තිස්ස ලෙණ  සංඝයා
+# sent_id = 209
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 210
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි දත්ත පුත් වන ස්වාමි අභය ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 211
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	අභය	අභය	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 212
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි සොණ ලෙණ සංඝයා
+# sent_id = 213
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා සිව දියණිය වන දත්ත ලෙණ සංඝයා
+# sent_id = 214
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ගෘහපති තිස්ස ලෙණ සංඝයා
+# sent_id = 215
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික උත්තර ලෙණ  සංඝයා
+# sent_id = 216
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත අභය ලෙණ සංඝයා
+# sent_id = 217
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත අභය ලෙණ  සංඝයා
+# sent_id = 218
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක දත්ත දියණිය වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 219
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය තිස්ස ලෙණ සංඝයා
+# sent_id = 220
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = මිත්ත ලෙණ සංඝයා
+# sent_id = 221
+1	මිත්ත	මිත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත තිස්ස පුත් වන ආයුෂ්මන්ත උත්තර ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 222
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආයුෂ්මන්ත කණ්හ ලෙණ සංඝයා
+# sent_id = 223
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් තිස්ස ලෙණ  සංඝයා
+# sent_id = 224
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත දත්ත සහෝදරයා වන මිත්ත ලෙණ සංඝයා
+# sent_id = 225
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 226
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික සිව ලෙණ සංඝයා
+# sent_id = 227
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති කණ්හ සහෝදරයා වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 228
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික දත්ත ලෙණ සංඝයා
+# sent_id = 229
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි උත්තර පුත් වන ස්වාමි කණ්හ ලෙණ සංඝයා කරවන ලද
+# sent_id = 230
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 231
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික දත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 232
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 233
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ඵුස්ස ලෙණ සංඝයා
+# sent_id = 234
+1	ඵුස්ස	ඵුස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි දත්ත පුත් වන කණ්හ ලෙණ සංඝයා
+# sent_id = 235
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ඵුස්ස ලෙණ සංඝයා
+# sent_id = 236
+1	ඵුස්ස	ඵුස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි නාග ලෙණ  සංඝයා
+# sent_id = 237
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සොණ ලෙණ සංඝයා
+# sent_id = 238
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය නාග සහෝදරයා වන මිත්ත ලෙණ සංඝයා
+# sent_id = 239
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි කණ්හ ලෙණ  සංඝයා
+# sent_id = 240
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත ධම්මරක්ඛිත දියණිය වන කණ්හ ලෙණ සංඝයා
+# sent_id = 241
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 242
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික ධම්මරක්ඛිත ලෙණ  සංඝයා
+# sent_id = 243
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 244
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි කණ්හ දියණිය වන ප්‍රධානි තිස්ස ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 245
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසිකා තිස්ස ලෙණ  සංඝයා
+# sent_id = 246
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් දත්ත ලෙණ  සංඝයා
+# sent_id = 247
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 248
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත ඵුස්ස ලෙණ  සංඝයා
+# sent_id = 249
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත තිස්ස සහෝදරයා වන උත්තර ලෙණ සංඝයා
+# sent_id = 250
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසක ධම්මරක්ඛිත භාර්යාව වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 251
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අමාත්‍ය දත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 252
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 253
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් සිව ලෙණ  සංඝයා
+# sent_id = 254
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය නාග ලෙණ සංඝයා
+# sent_id = 255
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි නාග සහෝදරයා වන ප්‍රධානි සිව ලෙණ සංඝයා කරවන ලද
+# sent_id = 256
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ස්වාමි ඵුස්ස ලෙණ සංඝයා
+# sent_id = 257
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 258
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා දත්ත භාර්යාව වන සිව ලෙණ සංඝයා
+# sent_id = 259
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිව	සිව	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ප්‍රධානි උත්තර දියණිය වන සොණ ලෙණ සංඝයා
+# sent_id = 260
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආයුෂ්මන්ත මිත්ත දියණිය වන උත්තර ලෙණ සංඝයා
+# sent_id = 261
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ප්‍රධානි සුමන පුත් වන අභය ලෙණ සංඝයා
+# sent_id = 262
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය දත්ත ලෙණ  සංඝයා
+# sent_id = 263
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය තිස්ස දියණිය වන ආචාර්ය තිස්ස ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 264
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආචාර්ය	ආචාර්ය	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි කණ්හ දියණිය වන ප්‍රධානි සිව ලෙණ සංඝයා කරවන ලද
+# sent_id = 265
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති ඵුස්ස ලෙණ  සංඝයා
+# sent_id = 266
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සොණ පුත් වන අමාත්‍ය දත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 267
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති කණ්හ ලෙණ සංඝයා
+# sent_id = 268
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත දත්ත ලෙණ  සංඝයා
+# sent_id = 269
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය උත්තර ලෙණ  සංඝයා
+# sent_id = 270
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික උත්තර ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 271
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත ඵුස්ස ලෙණ සංඝයා
+# sent_id = 272
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි අභය සහෝදරයා වන ස්වාමි සුමන ලෙණ සංඝයා දෙන ලදී
+# sent_id = 273
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 274
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ඵුස්ස ලෙණ සංඝයා
+# sent_id = 275
+1	ඵුස්ස	ඵුස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි සොණ භාර්යාව වන උත්තර ලෙණ සංඝයා
+# sent_id = 276
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 277
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත තිස්ස ලෙණ  සංඝයා
+# sent_id = 278
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය තිස්ස ලෙණ සංඝයා
+# sent_id = 279
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත මිත්ත ලෙණ සංඝයා
+# sent_id = 280
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 281
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත කණ්හ සහෝදරයා වන ආයුෂ්මන්ත කණ්හ ලෙණ සංඝයා කරවන ලද
+# sent_id = 282
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ස්වාමි ඵුස්ස භාර්යාව වන අභය ලෙණ සංඝයා
+# sent_id = 283
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ප්‍රධානි දත්ත සහෝදරයා වන ප්‍රධානි තිස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 284
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසිකා ඵුස්ස ලෙණ  සංඝයා
+# sent_id = 285
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සිව භාර්යාව වන මිත්ත ලෙණ සංඝයා
+# sent_id = 286
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 287
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් සිව භාර්යාව වන දත්ත ලෙණ සංඝයා
+# sent_id = 288
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ගෘහපති සුමන දියණිය වන උත්තර ලෙණ සංඝයා
+# sent_id = 289
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 290
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක සිව ලෙණ  සංඝයා
+# sent_id = 291
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික සිව ලෙණ සංඝයා
+# sent_id = 292
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි සුමන ලෙණ සංඝයා
+# sent_id = 293
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් මිත්ත භාර්යාව වන තෙරුණ් මිත්ත ලෙණ සංඝයා දෙන ලදී
+# sent_id = 294
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය සිව භාර්යාව වන අමාත්‍ය සුමන ලෙණ සංඝයා දෙන ලදී
+# sent_id = 295
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති තිස්ස ලෙණ සංඝයා
+# sent_id = 296
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් සොණ ලෙණ  සංඝයා
+# sent_id = 297
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි කණ්හ ලෙණ සංඝයා
+# sent_id = 298
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 299
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා මිත්ත ලෙණ  සංඝයා
+# sent_id = 300
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 301
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = අමාත්‍ය මිත්ත සහෝදරයා වන අමාත්‍ය මිත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 302
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය සුමන ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 303
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි ඵුස්ස පුත් වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 304
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික නාග ලෙණ සංඝයා
+# sent_id = 305
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය නාග භාර්යාව වන තිස්ස ලෙණ සංඝයා
+# sent_id = 306
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ගෘහපති සුමන සහෝදරයා වන ගෘහපති සුමන ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 307
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය අභය ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 308
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය මිත්ත ලෙණ සංඝයා
+# sent_id = 309
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය දත්ත භාර්යාව වන සිව ලෙණ සංඝයා
+# sent_id = 310
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිව	සිව	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය මිත්ත දියණිය වන ආචාර්ය ඵුස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 311
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආචාර්ය	ආචාර්ය	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 312
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා කණ්හ සහෝදරයා වන උපාසිකා තිස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 313
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසිකා	උපාසිකා	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය දත්ත ලෙණ සංඝයා
+# sent_id = 314
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් ඵුස්ස දියණිය වන තෙරුණ් කණ්හ ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 315
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 316
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි දත්ත පුත් වන සොණ ලෙණ සංඝයා
+# sent_id = 317
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 318
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක නාග පුත් වන උපාසක ඵුස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 319
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසක	උපාසක	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති සුමන දියණිය වන ගෘහපති ධම්මරක්ඛිත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 320
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 321
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් මිත්ත සහෝදරයා වන අභය ලෙණ සංඝයා
+# sent_id = 322
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි කණ්හ ලෙණ  සංඝයා
+# sent_id = 323
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා ධම්මරක්ඛිත භාර්යාව වන මිත්ත ලෙණ සංඝයා
+# sent_id = 324
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 325
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ගෘහපති ඵුස්ස භාර්යාව වන කණ්හ ලෙණ සංඝයා
+# sent_id = 326
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි මිත්ත භාර්යාව වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 327
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අමාත්‍ය කණ්හ ලෙණ සංඝයා
+# sent_id = 328
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය සුමන ලෙණ සංඝයා
+# sent_id = 329
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික අභය ලෙණ  සංඝයා
+# sent_id = 330
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් තිස්ස ලෙණ සංඝයා
+# sent_id = 331
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 332
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් නාග භාර්යාව වන සිව ලෙණ සංඝයා
+# sent_id = 333
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිව	සිව	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 334
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි දත්ත පුත් වන සුමන ලෙණ සංඝයා
+# sent_id = 335
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසක ඵුස්ස භාර්යාව වන උපාසක දත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 336
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසක	උපාසක	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 337
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි නාග පුත් වන ස්වාමි කණ්හ ලෙණ සංඝයා කරවන ලද
+# sent_id = 338
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසක සුමන ලෙණ සංඝයා
+# sent_id = 339
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි ඵුස්ස සහෝදරයා වන සොණ ලෙණ සංඝයා
+# sent_id = 340
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 341
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක ඵුස්ස ලෙණ සංඝයා
+# sent_id = 342
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති කණ්හ සහෝදරයා වන ගෘහපති අභය ලෙණ සංඝයා දෙන ලදී
+# sent_id = 343
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	අභය	අභය	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 344
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආචාර්ය නාග ලෙණ  සංඝයා
+# sent_id = 345
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 346
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක මිත්ත ලෙණ සංඝයා
+# sent_id = 347
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 348
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක කණ්හ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 349
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි උත්තර ලෙණ  සංඝයා
+# sent_id = 350
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක කණ්හ සහෝදරයා වන කණ්හ ලෙණ සංඝයා
+# sent_id = 351
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා සොණ ලෙණ සංඝයා
+# sent_id = 352
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය මිත්ත භාර්යාව වන උත්තර ලෙණ සංඝයා
+# sent_id = 353
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අමාත්‍ය තිස්ස ලෙණ සංඝයා
+# sent_id = 354
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 355
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 356
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික ඵුස්ස භාර්යාව වන තිස්ස ලෙණ සංඝයා
+# sent_id = 357
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා සිව දියණිය වන සොණ ලෙණ සංඝයා
+# sent_id = 358
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ඵුස්ස ලෙණ සංඝයා
+# sent_id = 359
+1	ඵුස්ස	ඵුස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආයුෂ්මන්ත සිව පුත් වන සිව ලෙණ සංඝයා
+# sent_id = 360
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිව	සිව	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි නාග ලෙණ  සංඝයා
+# sent_id = 361
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සුමන සහෝදරයා වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 362
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ප්‍රධානි ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 363
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 364
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 365
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි සිව ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 366
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති දත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 367
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය මිත්ත ලෙණ  සංඝයා
+# sent_id = 368
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක මිත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 369
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සුමන ලෙණ  සංඝයා
+# sent_id = 370
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ඵුස්ස ලෙණ සංඝයා
+# sent_id = 371
+1	ඵුස්ස	ඵුස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි සිව භාර්යාව වන ප්‍රධානි තිස්ස ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 372
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසක සොණ භාර්යාව වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 373
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික මිත්ත සහෝදරයා වන භාණ්ඩාගාරික අභය ලෙණ සංඝයා කරවන ලද
+# sent_id = 374
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	අභය	අභය	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය අභය ලෙණ සංඝයා
+# sent_id = 375
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති සිව ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 376
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත උත්තර සහෝදරයා වන අභය ලෙණ සංඝයා
+# sent_id = 377
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ප්‍රධානි දත්ත ලෙණ සංඝයා
+# sent_id = 378
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය සුමන භාර්යාව වන සොණ ලෙණ සංඝයා
+# sent_id = 379
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 380
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආචාර්ය ඵුස්ස ලෙණ සංඝයා
+# sent_id = 381
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය තිස්ස ලෙණ සංඝයා
+# sent_id = 382
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය මිත්ත භාර්යාව වන නාග ලෙණ සංඝයා
+# sent_id = 383
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	නාග	නාග	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තෙරුණ් දත්ත සහෝදරයා වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 384
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අමාත්‍ය තිස්ස ලෙණ  සංඝයා
+# sent_id = 385
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති ඵුස්ස සහෝදරයා වන කණ්හ ලෙණ සංඝයා
+# sent_id = 386
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	කණ්හ	කණ්හ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ප්‍රධානි ඵුස්ස ලෙණ  සංඝයා
+# sent_id = 387
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් දත්ත භාර්යාව වන තෙරුණ් මිත්ත ලෙණ සංඝයා කරවන ලද
+# sent_id = 388
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය දත්ත ලෙණ සංඝයා
+# sent_id = 389
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති අභය ලෙණ සංඝයා
+# sent_id = 390
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක නාග ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 391
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති උත්තර ලෙණ  සංඝයා
+# sent_id = 392
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති උත්තර භාර්යාව වන නාග ලෙණ සංඝයා
+# sent_id = 393
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	නාග	නාග	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආයුෂ්මන්ත මිත්ත භාර්යාව වන ආයුෂ්මන්ත දත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 394
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ස්වාමි සුමන පුත් වන ස්වාමි මිත්ත ලෙණ සංඝයා දෙන ලදී
+# sent_id = 395
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික කණ්හ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 396
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය සිව ලෙණ සංඝයා
+# sent_id = 397
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික තිස්ස දියණිය වන භාණ්ඩාගාරික සිව ලෙණ සංඝයා කරවන ලද
+# sent_id = 398
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	සිව	සිව	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති තිස්ස සහෝදරයා වන ගෘහපති දත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 399
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය ධම්මරක්ඛිත භාර්යාව වන සුමන ලෙණ සංඝයා
+# sent_id = 400
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ප්‍රධානි උත්තර ලෙණ සංඝයා
+# sent_id = 401
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති සිව ලෙණ සංඝයා
+# sent_id = 402
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික දත්ත භාර්යාව වන භාණ්ඩාගාරික උත්තර ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 403
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති සුමන ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 404
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා නාග ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 405
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය නාග පුත් වන ආචාර්ය අභය ලෙණ සංඝයා දෙන ලදී
+# sent_id = 406
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආචාර්ය	ආචාර්ය	NOUN	_	_	6	appos	_	_
+6	අභය	අභය	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 407
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා තිස්ස ලෙණ සංඝයා
+# sent_id = 408
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා ඵුස්ස සහෝදරයා වන දත්ත ලෙණ සංඝයා
+# sent_id = 409
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = කණ්හ ලෙණ සංඝයා
+# sent_id = 410
+1	කණ්හ	කණ්හ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා තිස්ස ලෙණ සංඝයා
+# sent_id = 411
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය උත්තර පුත් වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 412
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 413
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික ධම්මරක්ඛිත පුත් වන භාණ්ඩාගාරික ඵුස්ස ලෙණ සංඝයා දෙන ලදී
+# sent_id = 414
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය දත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 415
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත අභය දියණිය වන සුමන ලෙණ සංඝයා
+# sent_id = 416
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආචාර්ය සොණ ලෙණ  සංඝයා
+# sent_id = 417
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 418
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් තිස්ස ලෙණ සංඝයා
+# sent_id = 419
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 420
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික මිත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 421
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = දත්ත ලෙණ සංඝයා
+# sent_id = 422
+1	දත්ත	දත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 423
+1	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 424
+1	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික ඵුස්ස ලෙණ සංඝයා
+# sent_id = 425
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි සිව ලෙණ සංඝයා
+# sent_id = 426
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සිව ලෙණ සංඝයා
+# sent_id = 427
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක ධම්මරක්ඛිත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 428
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් සොණ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 429
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත සුමන ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 430
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් තිස්ස පුත් වන සිව ලෙණ සංඝයා
+# sent_id = 431
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිව	සිව	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තෙරුණ් ධම්මරක්ඛිත ලෙණ  සංඝයා
+# sent_id = 432
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා දත්ත ලෙණ සංඝයා
+# sent_id = 433
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උත්තර ලෙණ සංඝයා
+# sent_id = 434
+1	උත්තර	උත්තර	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා මිත්ත ලෙණ  සංඝයා
+# sent_id = 435
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 436
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = අමාත්‍ය සිව ලෙණ සංඝයා
+# sent_id = 437
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා කණ්හ ලෙණ සංඝයා
+# sent_id = 438
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක නාග ලෙණ සංඝයා
+# sent_id = 439
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ඵුස්ස ලෙණ සංඝයා
+# sent_id = 440
+1	ඵුස්ස	ඵුස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආචාර්ය උත්තර ලෙණ  සංඝයා
+# sent_id = 441
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත සිව ලෙණ සංඝයා
+# sent_id = 442
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක අභය ලෙණ සංඝයා
+# sent_id = 443
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් කණ්හ සහෝදරයා වන තෙරුණ් දත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 444
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තෙරුණ්	තෙරුණ්	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති අභය ලෙණ සංඝයා
+# sent_id = 445
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ප්‍රධානි නාග භාර්යාව වන ප්‍රධානි උත්තර ලෙණ සංඝයා දෙන ලදී
+# sent_id = 446
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසක උත්තර සහෝදරයා වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 447
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අමාත්‍ය ධම්මරක්ඛිත සහෝදරයා වන සුමන ලෙණ සංඝයා
+# sent_id = 448
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසක ඵුස්ස ලෙණ සංඝයා
+# sent_id = 449
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත මිත්ත පුත් වන අභය ලෙණ සංඝයා
+# sent_id = 450
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තිස්ස ලෙණ සංඝයා
+# sent_id = 451
+1	තිස්ස	තිස්ස	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආචාර්ය සුමන දියණිය වන ඵුස්ස ලෙණ සංඝයා
+# sent_id = 452
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ඵුස්ස	ඵුස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසක උත්තර සහෝදරයා වන උපාසක ඵුස්ස ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 453
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසක	උපාසක	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = අමාත්‍ය සිව දියණිය වන දත්ත ලෙණ සංඝයා
+# sent_id = 454
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ආයුෂ්මන්ත ඵුස්ස ලෙණ සංඝයා
+# sent_id = 455
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත මිත්ත ලෙණ සංඝයා
+# sent_id = 456
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි අභය ලෙණ සංඝයා
+# sent_id = 457
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 458
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ආචාර්ය උත්තර ලෙණ සංඝයා
+# sent_id = 459
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා ඵුස්ස ලෙණ  සංඝයා
+# sent_id = 460
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික තිස්ස ලෙණ  සංඝයා
+# sent_id = 461
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = අමාත්‍ය සොණ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 462
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක කණ්හ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 463
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා දත්ත දියණිය වන උපාසිකා ඵුස්ස ලෙණ සංඝයා දෙන ලදී
+# sent_id = 464
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසිකා	උපාසිකා	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = අභය ලෙණ සංඝයා
+# sent_id = 465
+1	අභය	අභය	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = අමාත්‍ය අභය දියණිය වන අමාත්‍ය නාග ලෙණ සංඝයා කරවන ලද
+# sent_id = 466
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	6	appos	_	_
+6	නාග	නාග	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ස්වාමි සිව සහෝදරයා වන ස්වාමි උත්තර ලෙණ සංඝයා දෙන ලදී
+# sent_id = 467
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික උත්තර ලෙණ සංඝයා
+# sent_id = 468
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා ඵුස්ස පුත් වන උපාසිකා දත්ත ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 469
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසිකා	උපාසිකා	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසිකා තිස්ස දියණිය වන මිත්ත ලෙණ සංඝයා
+# sent_id = 470
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා කණ්හ ලෙණ සංඝයා
+# sent_id = 471
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත සුමන භාර්යාව වන ආයුෂ්මන්ත නාග ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 472
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සුමන	සුමන	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	නාග	නාග	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ගෘහපති නාග ලෙණ  සංඝයා
+# sent_id = 473
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති ඵුස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 474
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා මිත්ත සහෝදරයා වන උපාසිකා දත්ත ලෙණ සංඝයා කරවන ලද
+# sent_id = 475
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසිකා	උපාසිකා	NOUN	_	_	6	appos	_	_
+6	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි සිව භාර්යාව වන ප්‍රධානි මිත්ත ලෙණ සංඝයා දෙන ලදී
+# sent_id = 476
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික තිස්ස දියණිය වන සොණ ලෙණ සංඝයා
+# sent_id = 477
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ගෘහපති ඵුස්ස භාර්යාව වන ගෘහපති ඵුස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 478
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ගෘහපති	ගෘහපති	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = දත්ත ලෙණ සංඝයා
+# sent_id = 479
+1	දත්ත	දත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ප්‍රධානි මිත්ත සහෝදරයා වන ප්‍රධානි තිස්ස ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 480
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික දත්ත භාර්යාව වන භාණ්ඩාගාරික සොණ ලෙණ සංඝයා කරවන ලද
+# sent_id = 481
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	සොණ	සොණ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික නාග පුත් වන භාණ්ඩාගාරික තිස්ස ලෙණ සංඝයා දෙන ලදී
+# sent_id = 482
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ස්වාමි සොණ ලෙණ සංඝයා
+# sent_id = 483
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ස්වාමි අභය භාර්යාව වන ස්වාමි කණ්හ ලෙණ සංඝයා කරවන ලද
+# sent_id = 484
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	අභය	අභය	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ස්වාමි	ස්වාමි	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසක ධම්මරක්ඛිත දියණිය වන සිව ලෙණ සංඝයා
+# sent_id = 485
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සිව	සිව	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසක දත්ත ලෙණ සංඝයා
+# sent_id = 486
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = තෙරුණ් නාග පුත් වන අභය ලෙණ සංඝයා
+# sent_id = 487
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අභය	අභය	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා දත්ත සහෝදරයා වන තිස්ස ලෙණ සංඝයා
+# sent_id = 488
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි තිස්ස ලෙණ සංඝයා
+# sent_id = 489
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික නාග ලෙණ සංඝයා
+# sent_id = 490
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත ධම්මරක්ඛිත පුත් වන ආයුෂ්මන්ත කණ්හ ලෙණ සංඝයා දෙන ලදී
+# sent_id = 491
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = උපාසක උත්තර ලෙණ සංඝයා
+# sent_id = 492
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	උත්තර	උත්තර	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = භාණ්ඩාගාරික කණ්හ ලෙණ සංඝයා
+# sent_id = 493
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 494
+1	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික ධම්මරක්ඛිත දියණිය වන භාණ්ඩාගාරික තිස්ස ලෙණ සංඝයා දෙන ලදී
+# sent_id = 495
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	6	appos	_	_
+6	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+10	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = භාණ්ඩාගාරික සොණ භාර්යාව වන සොණ ලෙණ සංඝයා
+# sent_id = 496
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සොණ	සොණ	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ගෘහපති සිව දියණිය වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 497
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි නාග සහෝදරයා වන උත්තර ලෙණ සංඝයා
+# sent_id = 498
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තෙරුණ් මිත්ත ලෙණ  සංඝයා
+# sent_id = 499
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සිව ලෙණ සංඝයා
+# sent_id = 500
+1	සිව	සිව	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 501
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික මිත්ත ලෙණ සංඝයා
+# sent_id = 502
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	මිත්ත	මිත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත කණ්හ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 503
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසිකා තිස්ස ලෙණ  සංඝයා
+# sent_id = 504
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 505
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = අමාත්‍ය කණ්හ ලෙණ  සංඝයා
+# sent_id = 506
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	කණ්හ	කණ්හ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත සිව භාර්යාව වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 507
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = භාණ්ඩාගාරික සිව පුත් වන සුමන ලෙණ සංඝයා
+# sent_id = 508
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	සුමන	සුමන	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = තෙරුණ් සිව ලෙණ සංඝයා
+# sent_id = 509
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආචාර්ය තිස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 510
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 511
+1	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසිකා තිස්ස භාර්යාව වන උපාසිකා උත්තර ලෙණ සංඝයා කරවන ලද
+# sent_id = 512
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	7	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසිකා	උපාසිකා	NOUN	_	_	6	appos	_	_
+6	උත්තර	උත්තර	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ආයුෂ්මන්ත නාග දියණිය වන ආයුෂ්මන්ත කණ්හ ලෙණ සංඝයා පවරා දෙන ලදී
+# sent_id = 513
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	පවරා	පවරා	NOUN	_	_	7	nmod	_	_
+10	දෙන	දෙන	NOUN	_	_	7	nmod	_	_
+11	ලදී	ලදී	NOUN	_	_	7	nmod	_	_
+
+# text = ආයුෂ්මන්ත සිව ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 514
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = උපාසක නාග සහෝදරයා වන උපාසක ඵුස්ස ලෙණ සංඝයා කරවන ලද
+# sent_id = 515
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උපාසක	උපාසක	NOUN	_	_	6	appos	_	_
+6	ඵුස්ස	ඵුස්ස	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ප්‍රධානි ධම්මරක්ඛිත ලෙණ  සංඝයා
+# sent_id = 516
+1	ප්‍රධානි	ප්‍රධානි	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = නාග ලෙණ සංඝයා
+# sent_id = 517
+1	නාග	නාග	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = උපාසක සිව ලෙණ  සංඝයා
+# sent_id = 518
+1	උපාසක	උපාසක	NOUN	_	_	2	appos	_	_
+2	සිව	සිව	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත ධම්මරක්ඛිත පුත් වන දත්ත ලෙණ සංඝයා
+# sent_id = 519
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	දත්ත	දත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = අමාත්‍ය නාග පුත් වන අමාත්‍ය කණ්හ ලෙණ සංඝයා කරවන ලද
+# sent_id = 520
+1	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	7	nmod	_	_
+3	පුත්	පුත්	NOUN	_	_	7	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	අමාත්‍ය	අමාත්‍ය	NOUN	_	_	6	appos	_	_
+6	කණ්හ	කණ්හ	PROPN	_	_	7	nmod	_	_
+7	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+8	සංඝයා	සංඝයා	NOUN	_	_	7	obl	_	_
+9	කරවන	කරවන	NOUN	_	_	7	nmod	_	_
+10	ලද	ලද	NOUN	_	_	7	nmod	_	_
+
+# text = ආචාර්ය තිස්ස දියණිය වන මිත්ත ලෙණ සංඝයා
+# sent_id = 521
+1	ආචාර්ය	ආචාර්ය	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	දියණිය	දියණිය	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	මිත්ත	මිත්ත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = සුමන ලෙණ සංඝයා
+# sent_id = 522
+1	සුමන	සුමන	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = ස්වාමි ධම්මරක්ඛිත සහෝදරයා වන උත්තර ලෙණ සංඝයා
+# sent_id = 523
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+3	සහෝදරයා	සහෝදරයා	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	උත්තර	උත්තර	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = උපාසිකා තිස්ස ලෙණ  සංඝයා
+# sent_id = 524
+1	උපාසිකා	උපාසිකා	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ගෘහපති දත්ත ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 525
+1	ගෘහපති	ගෘහපති	NOUN	_	_	2	appos	_	_
+2	දත්ත	දත්ත	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = ආයුෂ්මන්ත සොණ ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 526
+1	ආයුෂ්මන්ත	ආයුෂ්මන්ත	NOUN	_	_	2	appos	_	_
+2	සොණ	සොණ	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = දත්ත ලෙණ සංඝයා
+# sent_id = 527
+1	දත්ත	දත්ත	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = තෙරුණ් තිස්ස ලෙණ පැමිණියාවූත් නොපැමිණියාවූත් සතරදෙස සංඝයා
+# sent_id = 528
+1	තෙරුණ්	තෙරුණ්	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	පැමිණියාවූත්	පැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+5	නොපැමිණියාවූත්	නොපැමිණියාවූත්	NOUN	_	_	3	nmod	_	_
+6	සතරදෙස	සතරදෙස	NOUN	_	_	3	nmod	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+
+# text = සොණ ලෙණ සංඝයා
+# sent_id = 529
+1	සොණ	සොණ	PROPN	_	_	2	nmod	_	_
+2	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+3	සංඝයා	සංඝයා	NOUN	_	_	2	obl	_	_
+
+# text = භාණ්ඩාගාරික තිස්ස භාර්යාව වන ධම්මරක්ඛිත ලෙණ සංඝයා
+# sent_id = 530
+1	භාණ්ඩාගාරික	භාණ්ඩාගාරික	NOUN	_	_	2	appos	_	_
+2	තිස්ස	තිස්ස	PROPN	_	_	6	nmod	_	_
+3	භාර්යාව	භාර්යාව	NOUN	_	_	6	compound	_	_
+4	වන	වන	ADP	_	_	3	case	_	_
+5	ධම්මරක්ඛිත	ධම්මරක්ඛිත	PROPN	_	_	6	nmod	_	_
+6	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+7	සංඝයා	සංඝයා	NOUN	_	_	6	obl	_	_
+
+# text = ස්වාමි නාග ලෙණ සංඝයා
+# sent_id = 531
+1	ස්වාමි	ස්වාමි	NOUN	_	_	2	appos	_	_
+2	නාග	නාග	PROPN	_	_	3	nmod	_	_
+3	ලෙණ	ලෙණ	NOUN	_	_	0	root	_	_
+4	සංඝයා	සංඝයා	NOUN	_	_	3	obl	_	_
+

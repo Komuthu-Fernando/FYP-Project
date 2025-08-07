@@ -1,0 +1,7 @@
+# text = තිස්සාගේ ලෙන සන්ඝයාට පුජා කරන ලදි
+1	තිස්සාගේ	_	NOUN	_	_	2	nmod:poss	_	_
+2	ලෙන	_	NOUN	_	_	4	obj	_	_
+3	සන්ඝයාට	_	NOUN	_	_	4	obl:to	_	_
+4	පුජා	_	VERB	_	_	0	root	_	_
+5	කරන	_	VERB	_	_	4	compound	_	_
+6	ලදි	_	VERB	_	_	4	compound	_	_

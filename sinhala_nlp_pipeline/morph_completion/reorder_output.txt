@@ -1,0 +1,99 @@
+==================================================
+Input Sentence: තිස්ස ලෙණ සංඝයා
+Tokens: ['තිස්ස', 'ලෙණ', 'සංඝයා']
+POS Tags: ['PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['N-MASC', '_', '_']
+Dependencies: ['nmod', 'root', 'nmod']
+Reordered Sentence: තිස්ස ලෙණ සංඝයා
+Gender-Corrected Sentence: තිස්ස ලෙණ සංඝයා
+Morphologically Completed Sentence: තිස්සගේ ලෙණ සංඝයාට දෙන ලදී
+==================================================
+
+==================================================
+Input Sentence: තිස්ස ප්‍රධානියා ලෙණ සංඝයා
+Tokens: ['තිස්ස', 'ප්\u200dරධානියා', 'ලෙණ', 'සංඝයා']
+POS Tags: ['PROPN', 'NOUN', 'NOUN', 'NOUN']
+XPOS Tags: ['N-MASC', 'TITLE-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: තිස්ස ප් රධානියා ලෙණ සංඝයා
+Gender-Corrected Sentence: තිස්ස ප් රධානියා ලෙණ සංඝයා
+Morphologically Completed Sentence: තිස්ස න​ම් ප්, රධානියා නම් ප්ගේ ලෙණ සංඝයාට දෙන ලදී
+==================================================
+
+==================================================
+Input Sentence: උපාසික තිස්ස ලෙණ සංඝයා
+Tokens: ['උපාසික', 'තිස්ස', 'ලෙණ', 'සංඝයා']
+POS Tags: ['PROPN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['_', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: උපාසික තිස්ස ලෙණ සංඝයා
+Gender-Corrected Sentence: උපාසික තිස්ස ලෙණ සංඝයා
+Morphologically Completed Sentence: උපාසික වන තිස්ස​ගේ ලෙණ සංඝයාට දෙන ලදී
+==================================================
+
+==================================================
+Input Sentence: වෙළෙන්දා සුමන ලෙණ
+Tokens: ['වෙළෙන්දා', 'සුමන', 'ලෙණ']
+POS Tags: ['NOUN', 'PROPN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_']
+Dependencies: ['appos', 'nmod', 'root']
+Reordered Sentence: වෙළෙන්දා සුමන ලෙණ
+Gender-Corrected Sentence: වෙළෙන්දා සුමන ලෙණ
+Morphologically Completed Sentence: වෙළෙන්දා න​ම් සුමනගේ ලෙණ
+==================================================
+
+==================================================
+Input Sentence: වෙළෙන්දා සුමන ලෙණ
+Tokens: ['වෙළෙන්දා', 'සුමන', 'ලෙණ']
+POS Tags: ['NOUN', 'PROPN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_']
+Dependencies: ['appos', 'nmod', 'root']
+Reordered Sentence: සුමනා වෙළෙන්දා ලෙණ
+Gender-Corrected Sentence: සුමනා වෙළෙන්දා ලෙණ
+Morphologically Completed Sentence: සුමනා න​ම් වෙළෙන්දාගේ ලෙණ
+==================================================
+
+==================================================
+Input Sentence: උපාසිකා තිස්ස ලෙණ සංඝයා
+Tokens: ['උපාසිකා', 'තිස්ස', 'ලෙණ', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-FEM', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: තිස්සා උපාසිකා ලෙණ සංඝයා
+Gender-Corrected Sentence: තිස්සා උපාසිකා ලෙණ සංඝයා
+Morphologically Completed Sentence: තිස්සා නම් උපාසිකාගේ ලෙණ සංඝයාට දෙන ලදී
+==================================================
+
+==================================================
+Input Sentence: ප්‍රධානියා තිස්ස ලෙණ සංඝයා
+Tokens: ['ප්\u200dරධානියා', 'තිස්ස', 'ලෙණ', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: තිස්ස ප්‍රධානියා ලෙණ සංඝයා
+Gender-Corrected Sentence: තිස්ස ප්‍රධානියා ලෙණ සංඝයා
+Morphologically Completed Sentence: තිස්ස න​ම් ප්‍රධානියාගේ ලෙණ සංඝයාට දෙන ලදී
+==================================================
+
+==================================================
+Input Sentence: තිස්ස ලෙණ සංඝයා
+Tokens: ['තිස්ස', 'ලෙණ', 'සංඝයා']
+POS Tags: ['PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['N-MASC', '_', '_']
+Dependencies: ['nmod', 'root', 'nmod']
+Reordered Sentence: තිස්ස ලෙණ සංඝයා
+Gender-Corrected Sentence: තිස්ස ලෙණ සංඝයා
+Morphologically Completed Sentence: තිස්සගේ ලෙණ සංඝයාට දෙන ලදී
+==================================================
+
+==================================================
+Input Sentence: ප්‍රධානි​යා තිස්ස ලෙණ සංඝයා
+Tokens: ['ප්\u200dරධානි\u200bයා', 'තිස්ස', 'ලෙණ', 'සංඝයා']
+POS Tags: ['NOUN', 'PROPN', 'NOUN', 'NOUN']
+XPOS Tags: ['TITLE-MASC', 'N-MASC', '_', '_']
+Dependencies: ['appos', 'nmod', 'root', 'nmod']
+Reordered Sentence: තිස්ස ප්‍රධානි​යා ලෙණ සංඝයා
+Gender-Corrected Sentence: තිස්ස ප්‍රධානි​යා ලෙණ සංඝයා
+Morphologically Completed Sentence: තිස්ස න​ම් ප්‍රධානියාගේ ලෙණ සංඝයාට දෙන ලදී
+==================================================
+

@@ -1,0 +1,27 @@
+# text = තිස්සාගේ ලෙන සන්ඝයාට පූජා කරන ලදි
+1	තිස්සාගේ	තිස්ස	PROPN	_	Case=Gen	2	nmod:poss	_	_
+2	ලෙන	ලෙන	NOUN	_	Case=Nom	4	nsubj	_	_
+3	සන්ඝයාට	සන්ඝ	NOUN	_	Case=Dat	4	obl	_	_
+4	පූජා	පූජා	NOUN	_	_	5	compound	_	_
+5	කරන	කර	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+6	ලදි	ලබ	AUX	_	_	5	aux	_	_
+
+# text = සුමන ගුප්තගේ ලෙන සන්ගයාට පූජා කරන ලදි
+1	සුමන	සුමන	PROPN	_	_	2	nmod:poss	_	_
+2	ගුප්තගේ	ගුප්ත	PROPN	_	Case=Gen	3	nmod:poss	_	_
+3	ලෙන	ලෙන	NOUN	_	Case=Nom	5	nsubj	_	_
+4	සන්ගයාට	සන්ඝ	NOUN	_	Case=Dat	5	obl	_	_
+5	පූජා	පූජා	NOUN	_	_	6	compound	_	_
+6	කරන	කර	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+7	ලදි	ලබ	AUX	_	_	6	aux	_	_
+
+# text = ප්‍රධානී තිස්සගේ පුත්‍රයාගේ ගුහාව දූතයාගේ සංඝයාට පූජා කරන ලදි
+1	ප්‍රධානී	ප්‍රධානී	NOUN	_	_	2	nmod	_	_
+2	තිස්සගේ	තිස්ස	PROPN	_	Case=Gen	3	nmod:poss	_	_
+3	පුත්‍රයාගේ	පුත්‍ර	NOUN	_	Case=Gen	4	nmod:poss	_	_
+4	ගුහාව	ගුහා	NOUN	_	Case=Nom	8	nsubj	_	_
+5	දූතයාගේ	දූත	NOUN	_	Case=Gen	6	nmod:poss	_	_
+6	සංඝයාට	සන්ඝ	NOUN	_	Case=Dat	8	obl	_	_
+7	පූජා	පූජා	NOUN	_	_	8	compound	_	_
+8	කරන	කර	VERB	_	Mood=Ind|Tense=Past	0	root	_	_
+9	ලදි	ලබ	AUX	_	_	8	aux	_	_
